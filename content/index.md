@@ -1,5 +1,5 @@
 ---
-title: ようこそ、「知識ボックス」へ！
+title: 知識ボックス　トップページ
 draft: "false"
 tags:
 ---
