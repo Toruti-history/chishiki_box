@@ -29,9 +29,12 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
     if (text) {
       const segments: (string | JSX.Element)[] = []
 
-      if (fileData.dates) {
-        segments.push(<Date date={getDate(cfg, fileData)!} locale={cfg.locale} />)
-      }
+    if (fileData.dates) {
+      segments.push('作成日：')
+      segments.push(<Date date={getDate({defaultDateType: 'created'} as any, fileData)!} locale={cfg.locale} />)
+      segments.push('更新日：')
+      segments.push(<Date date={getDate({defaultDateType: 'modified'} as any, fileData)!} locale={cfg.locale} />)
+  }
 
       // Display reading time if enabled
       if (options.showReadingTime) {
