@@ -144,7 +144,12 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   }
 
   const nodes = [...neighbourhood].map((url) => {
-    const text = url.startsWith("tags/") ? "#" + url.substring(5) : (data.get(url)?.title ?? url)
+    // data.get(url) で取れるオブジェクトの中身を確認し、
+    // title がなければ displayName、それもなければ url を使う
+    const nodeData = data.get(url)
+    const text = url.startsWith("tags/") 
+      ? "#" + url.substring(5) 
+      : (nodeData?.title ?? url)
     return {
       id: url,
       text,
