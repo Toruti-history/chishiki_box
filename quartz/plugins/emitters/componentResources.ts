@@ -5,6 +5,8 @@ import { QuartzEmitterPlugin } from "../types"
 import spaRouterScript from "../../components/scripts/spa.inline"
 // @ts-ignore
 import popoverScript from "../../components/scripts/popover.inline"
+// @ts-ignore
+import vercelAnalyticsScript from "../../components/scripts/vercelAnalytics.inline"
 import styles from "../../styles/custom.scss"
 import popoverStyle from "../../components/styles/popover.scss"
 import { BuildCtx } from "../../util/ctx"
@@ -230,17 +232,10 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
     `)
   } else if (cfg.analytics?.provider === "vercel") {
     /**
-     * script from {@link https://vercel.com/docs/analytics/quickstart?framework=html#add-the-script-tag-to-your-site|Vercel Docs}
+     * Using @vercel/analytics package for improved tracking
+     * {@link https://vercel.com/docs/analytics/quickstart|Vercel Analytics Docs}
      */
-    componentResources.beforeDOMLoaded.push(`
-      window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };
-    `)
-    componentResources.afterDOMLoaded.push(`
-      const vercelInsightsScript = document.createElement("script")
-      vercelInsightsScript.src = "/_vercel/insights/script.js"
-      vercelInsightsScript.defer = true
-      document.head.appendChild(vercelInsightsScript)
-    `)
+    componentResources.afterDOMLoaded.push(vercelAnalyticsScript)
   } else if (cfg.analytics?.provider === "rybbit") {
     componentResources.afterDOMLoaded.push(`
       const rybbitScript = document.createElement("script");
