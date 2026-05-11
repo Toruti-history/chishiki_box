@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 {
   "cleanUrls": true,
   "trailingSlash": false
+=======
+{
+  "cleanUrls": true,
+  "trailingSlash": false
+>>>>>>> 7e0c792 (update)
 }
