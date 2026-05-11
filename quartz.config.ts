@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "vercel",
     },
     locale: "ja-JP",
-    baseUrl: "chishiki-box.vercel.app",
+    baseUrl: "chishiki-box-xmos.vercel.app",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
