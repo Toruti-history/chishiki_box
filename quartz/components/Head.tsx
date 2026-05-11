@@ -97,6 +97,18 @@ export default (() => {
             return resource
           }
         })}
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+(function() {
+  window.va = window.va || function() {
+    (window.vaq = window.vaq || []).push(arguments);
+  };
+})();
+            `,
+          }}
+        />
+        <script defer src="/_vercel/insights/script.js" />
       </head>
     )
   }
