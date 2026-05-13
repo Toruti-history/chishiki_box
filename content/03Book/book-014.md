@@ -4,6 +4,8 @@ aliases:
   - 岡本隆司『李鴻章ーー東アジアの近代』
 draft: "false"
 tags:
+created: 2026-05-10
+modified: 2026-05-13
 ---
 ### 書名
 

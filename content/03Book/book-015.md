@@ -4,6 +4,8 @@ aliases:
   - 『英語語源辞典　縮刷版』
 draft: "false"
 tags:
+created: 2026-05-10
+modified: 2026-05-13
 ---
 ### 書名
 

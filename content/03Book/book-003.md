@@ -4,6 +4,8 @@ aliases:
   - 『日本史用語集　A・B共用』
 draft: "false"
 tags:
+created: 2026-05-11
+modified: 2026-05-13
 ---
 ### 書名
 
