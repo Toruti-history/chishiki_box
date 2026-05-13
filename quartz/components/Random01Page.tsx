@@ -1,32 +1,42 @@
-const openRandom = async () => {
-  try {
-    const res = await fetch("/static/contentIndex.json")
+import { QuartzComponentConstructor } from "./types"
 
-    console.log(res)
+const Random01Page: QuartzComponentConstructor = () => {
+  return () => (
+    <button
+      type="button"
+      onClick={async () => {
+        try {
+          const res = await fetch("/static/contentIndex.json")
+          const data = await res.json()
 
-    const data = await res.json()
+          console.log(data)
 
-    console.log(data)
+          const pages = Object.values(data)
+            .map((item: any) => item.slug)
+            .filter((slug) => slug?.startsWith("01Page/"))
 
-    const pages = Object.keys(data).filter((p) =>
-      p.startsWith("01Page/")
-    )
+          console.log(pages)
 
-    console.log(pages)
+          if (pages.length === 0) {
+            alert("No pages found")
+            return
+          }
 
-    if (pages.length === 0) {
-      alert("No pages found")
-      return
-    }
+          const randomPage =
+            pages[Math.floor(Math.random() * pages.length)]
 
-    const randomPage =
-      pages[Math.floor(Math.random() * pages.length)]
+          console.log(randomPage)
 
-    console.log(randomPage)
+          window.location.href = "/" + randomPage
 
-    window.location.href = "/" + randomPage
-
-  } catch (e) {
-    console.error(e)
-  }
+        } catch (err) {
+          console.error(err)
+        }
+      }}
+    >
+      Random Note
+    </button>
+  )
 }
+
+export default Random01Page
