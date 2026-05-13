@@ -4,7 +4,7 @@ const Random01Page: QuartzComponentConstructor = () => {
   return () => (
     <div>
       <button id="random-note-button">
-        Random Note
+        ページをランダムで表示する
       </button>
 
       <script
