@@ -1,3 +1,4 @@
+
 import { QuartzComponentConstructor } from "./types"
 
 export default (() => {
@@ -26,4 +27,5 @@ export default (() => {
   }
 
   return Random01Page
+
 }) satisfies QuartzComponentConstructor
