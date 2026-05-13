@@ -1,31 +1,32 @@
-import { QuartzComponentConstructor } from "./types"
+const openRandom = async () => {
+  try {
+    const res = await fetch("/static/contentIndex.json")
 
-const Random01Page: QuartzComponentConstructor = () => {
-  function RandomButton() {
-    const openRandom = async () => {
-      const res = await fetch("/contentIndex.json")
-      const data = await res.json()
+    console.log(res)
 
-      const pages = Object.keys(data).filter((p) =>
-        p.startsWith("01Page/")
-      )
+    const data = await res.json()
 
-      if (pages.length === 0) return
+    console.log(data)
 
-      const randomPage =
-        pages[Math.floor(Math.random() * pages.length)]
+    const pages = Object.keys(data).filter((p) =>
+      p.startsWith("01Page/")
+    )
 
-      window.location.href = "/" + randomPage
+    console.log(pages)
+
+    if (pages.length === 0) {
+      alert("No pages found")
+      return
     }
 
-    return (
-      <button onClick={openRandom}>
-        Random Note
-      </button>
-    )
+    const randomPage =
+      pages[Math.floor(Math.random() * pages.length)]
+
+    console.log(randomPage)
+
+    window.location.href = "/" + randomPage
+
+  } catch (e) {
+    console.error(e)
   }
-
-  return RandomButton
 }
-
-export default Random01Page
