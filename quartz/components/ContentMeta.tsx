@@ -24,41 +24,42 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
   const options: ContentMetaOptions = { ...defaultOptions, ...opts }
 
   function ContentMetadata({ cfg, fileData, displayClass }: QuartzComponentProps) {
-    const text = fileData.text
+  const text = fileData.text
 
-    if (text) {
-      const segments: (string | JSX.Element)[] = []
+  if (text) {
+    const segments: (string | JSX.Element)[] = []
 
-      if (fileData.dates) {
-        segments.push("作成日： ")
-        segments.push(
-          <Date
-            date={getDate({ defaultDateType: "created" } as any, fileData)!}
-            locale={cfg.locale}
-          />
-        )
+    if (fileData.dates) {
+      console.log("DATES", fileData.slug, fileData.dates)
 
-        segments.push(" / 更新日： ")
-        segments.push(
-          <Date
-            date={getDate({ defaultDateType: "modified" } as any, fileData)!}
-            locale={cfg.locale}
-          />
-        )
-      }
-
-      return (
-        <p show-comma={options.showComma} class={classNames(displayClass, "content-meta")}>
-          {segments}
-        </p>
+      segments.push("作成日： ")
+      segments.push(
+        <Date
+          date={getDate({ defaultDateType: "created" } as any, fileData)!}
+          locale={cfg.locale}
+        />
       )
-    } else {
-      return null
+
+      segments.push(" / 更新日： ")
+      segments.push(
+        <Date
+          date={getDate({ defaultDateType: "modified" } as any, fileData)!}
+          locale={cfg.locale}
+        />
+      )
     }
+
+    return (
+      <p show-comma={options.showComma} class={classNames(displayClass, "content-meta")}>
+        {segments}
+      </p>
+    )
+  } else {
+    return null
   }
-  ContentMetadata.css = style
-  return ContentMetadata
+}
 
+
+ContentMetadata.css = style
+return ContentMetadata
 }) satisfies QuartzComponentConstructor
-
-
