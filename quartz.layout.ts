@@ -45,7 +45,10 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer(),
   ],
 
-  right: [],
+  right: [
+  Component.Explorer(),
+  Random01Page(),
+], 
 }
 
 // components for pages that display lists of pages
