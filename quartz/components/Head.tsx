@@ -55,7 +55,7 @@ export default (() => {
         <meta 
           name="google-site-verification"
           content="google3cf97598173343c0"
-/>
+        />
 
         <meta name="og:site_name" content={cfg.pageTitle}></meta>
         <meta property="og:title" content={title} />
