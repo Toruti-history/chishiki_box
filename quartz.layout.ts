@@ -1,5 +1,6 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+import Random01Page from "./quartz/components/Random01Page"
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
@@ -44,6 +45,8 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
+    Component.Explorer(),
+    Random01Page(),
   ],
 }
 
@@ -64,5 +67,8 @@ export const defaultListPageLayout: PageLayout = {
     }),
     Component.Explorer(),
   ],
-  right: [],
+  right: [
+    Component.Explorer(),
+    Random01Page(),
+  ],
 }

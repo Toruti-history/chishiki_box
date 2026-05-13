@@ -73,13 +73,32 @@ const config: QuartzConfig = {
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
     ],
-    filters: [Plugin.RemoveDrafts()],
+    filters: [
+      Plugin.RemoveDrafts(),
+      {
+        name: "ExcludeTemplateFolder",
+        shouldPublish(ctx, content) {
+          const path = Content.fileData.slug ?? ""
+          return !path.startsWith("template/)")
+        },
+      },
+    ],
     emitters: [
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
       Plugin.ContentPage(),
       Plugin.FolderPage(),
       Plugin.TagPage(),
+      Plugin.FolderPage({
+        sort: (a, b) => {
+          const titleA = a.frontmatter?.title ?? a.slug ?? ""
+          const titleB = b.frontmatter?.title ?? b.slug ?? ""
+          return titleA.localeCompare(titleB, undefined, {
+            numeric: true,
+            sensitivity: "base",
+          })
+        },
+      }),
       Plugin.ContentIndex({
         enableSiteMap: true,
         enableRSS: true,

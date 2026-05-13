@@ -29,6 +29,23 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
     if (text) {
       const segments: (string | JSX.Element)[] = []
 
+      if (fileData.dates) {
+        segments.push("作成日： ")
+        segments.push(
+          <Date
+            date={getDate({ defaultDateType: "created" } as any, fileData)!}
+            locale={cfg.locale}
+          />
+        )
+
+        segments.push(" / 更新日： ")
+        segments.push(
+          <Date
+            date={getDate({ defaultDateType: "modified" } as any, fileData)!}
+            locale={cfg.locale}
+          />
+        )
+      }
 
       return (
         <p show-comma={options.showComma} class={classNames(displayClass, "content-meta")}>
@@ -39,8 +56,9 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
       return null
     }
   }
-
   ContentMetadata.css = style
-
   return ContentMetadata
+
 }) satisfies QuartzComponentConstructor
+
+
