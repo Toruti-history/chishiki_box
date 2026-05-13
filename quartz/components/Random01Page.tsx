@@ -5,6 +5,7 @@ const Random01Page: QuartzComponentConstructor = () => {
     <button
       type="button"
       onClick={() => {
+        console.log("BUTTON CLICKED")
         alert("clicked")
       }}
     >
