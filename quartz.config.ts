@@ -74,15 +74,15 @@ const config: QuartzConfig = {
       Plugin.Latex({ renderEngine: "katex" }),
     ],
     filters: [
-      Plugin.RemoveDrafts(),
-      {
-        name: "ExcludeTemplateFolder",
-        shouldPublish(ctx, content) {
-          const path = Content.fileData.slug ?? ""
-          return !path.startsWith("template/)")
-        },
-      },
-    ],
+  Plugin.RemoveDrafts(),
+  {
+    name: "ExcludeTemplateFolder",
+    shouldPublish(_ctx, content: any) {
+      const slug = content.fileData?.slug ?? ""
+      return !slug.startsWith("template/")
+    },
+  },
+],
     emitters: [
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
