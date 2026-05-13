@@ -8,18 +8,25 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "知識ボックス",
-    pageTitleSuffix: "知識ボックス",
-    enableSPA: true,
-    enablePopovers: true,
-    analytics: {
-      provider: "vercel",
-    },
-    locale: "ja-JP",
-    baseUrl: "chishiki-box-xmos.vercel.app",
-    ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "modified",
-    theme: {
+  pageTitle: "知識ボックス",
+  pageTitleSuffix: "知識ボックス",
+  enableSPA: true,
+  enablePopovers: true,
+  analytics: {
+    provider: "vercel",
+  },
+  locale: "ja-JP",
+  baseUrl: "chishiki-box-xmos.vercel.app",
+
+  ignorePatterns: [
+    "private/**", 
+    "template/**", 
+    "templates/**", 
+    ".obsidian/**"],
+
+  defaultDateType: "modified",
+
+  theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
@@ -53,6 +60,9 @@ const config: QuartzConfig = {
       },
     },
   },
+
+  ignorePatterns: ["private", "template", "templates", ".obsidian"],
+
   plugins: {
     transformers: [
       Plugin.FrontMatter(),
@@ -73,16 +83,11 @@ const config: QuartzConfig = {
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
     ],
+
     filters: [
-  Plugin.RemoveDrafts(),
-  {
-    name: "ExcludeTemplateFolder",
-    shouldPublish(_ctx, content: any) {
-      const slug = content.fileData?.slug ?? ""
-      return !slug.startsWith("template/")
-    },
-  },
-],
+      Plugin.RemoveDrafts(),
+    ],
+
     emitters: [
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
