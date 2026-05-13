@@ -59,25 +59,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.ContentMeta(),
   ],
 
-  left: [
-    Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
+  left: [],
 
-    Component.Flex({
-      components: [
-        {
-          Component: Component.Search(),
-          grow: true,
-        },
-        { Component: Component.Darkmode() },
-      ],
-    }),
-
-    Component.Explorer(),
-  ],
-
-  right: [
-    Component.Explorer(),
-    // Random01Page(),
-  ],
+  right: [],
 }

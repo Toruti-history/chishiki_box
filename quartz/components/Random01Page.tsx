@@ -1,8 +1,7 @@
-
 import { QuartzComponentConstructor } from "./types"
 
-export default (() => {
-  function Random01Page() {
+const Random01Page: QuartzComponentConstructor = () => {
+  function RandomButton() {
     const openRandom = async () => {
       const res = await fetch("/contentIndex.json")
       const data = await res.json()
@@ -26,6 +25,7 @@ export default (() => {
     )
   }
 
-  return Random01Page
+  return RandomButton
+}
 
-}) satisfies QuartzComponentConstructor
+export default Random01Page
