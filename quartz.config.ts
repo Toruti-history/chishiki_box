@@ -89,16 +89,7 @@ const config: QuartzConfig = {
       Plugin.ContentPage(),
       Plugin.FolderPage(),
       Plugin.TagPage(),
-      Plugin.FolderPage({
-        sort: (a, b) => {
-          const titleA = a.frontmatter?.title ?? a.slug ?? ""
-          const titleB = b.frontmatter?.title ?? b.slug ?? ""
-          return titleA.localeCompare(titleB, undefined, {
-            numeric: true,
-            sensitivity: "base",
-          })
-        },
-      }),
+      Plugin.FolderPage(),
       Plugin.ContentIndex({
         enableSiteMap: true,
         enableRSS: true,
