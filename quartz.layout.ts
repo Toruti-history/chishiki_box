@@ -48,6 +48,7 @@ export const defaultContentPageLayout: PageLayout = {
   right: [
     Random01Page(),
   ], 
+}
 
 // components for pages that display lists of pages
 export const defaultListPageLayout: PageLayout = {
