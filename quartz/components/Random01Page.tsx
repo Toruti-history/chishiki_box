@@ -3,8 +3,34 @@ import { QuartzComponentConstructor } from "./types"
 const Random01Page: QuartzComponentConstructor = () => {
   return () => (
     <div>
+      <style>
+        {`
+          .random-button {
+            display: block;
+            width: 100%;
+            padding: 12px 14px;
+            font-size: 16px;
+            font-weight: 600;
+            border-radius: 10px;
+            border: 1px solid var(--lightgray);
+            background: var(--light);
+            cursor: pointer;
+            transition: all 0.15s ease;
+          }
+
+          .random-button:hover {
+            transform: translateY(-1px);
+            background: var(--highlight);
+          }
+
+          .random-button:active {
+            transform: translateY(0px);
+          }
+        `}
+      </style>
+
       <button id="random-note-button" class="random-button">
-        ページをランダムで表示する
+        ページをランダム表示
       </button>
 
       <script
@@ -41,31 +67,5 @@ const Random01Page: QuartzComponentConstructor = () => {
     </div>
   )
 }
-
-<style>
-{`
-  .random-button {
-    display: block;
-    width: 100%;
-    padding: 12px 14px;
-    font-size: 16px;
-    font-weight: 600;
-    border-radius: 10px;
-    border: 1px solid var(--lightgray);
-    background: var(--light);
-    cursor: pointer;
-    transition: all 0.15s ease;
-  }
-
-  .random-button:hover {
-    transform: translateY(-1px);
-    background: var(--highlight);
-  }
-
-  .random-button:active {
-    transform: translateY(0px);
-  }
-`}
-</style>
 
 export default Random01Page
