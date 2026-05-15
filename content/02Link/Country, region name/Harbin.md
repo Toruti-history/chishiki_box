@@ -1,7 +1,7 @@
 ---
-title: ニコライ2世
+title: ハルビン
 aliases:
-  - ニコライ2世
+  - ハルビン
 draft: "false"
 tags:
 created: 2026-05-15

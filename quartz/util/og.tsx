@@ -207,7 +207,7 @@ export const defaultImage: SocialImageOptions["imageStructure"] = ({
         width: "100%",
         backgroundColor: cfg.theme.colors[colorScheme].light,
         padding: "2.5rem",
-        fontFamily: bodyFont,
+        fontFamily: "Noto Sans JP",
       }}
     >
       {/* Header Section */}

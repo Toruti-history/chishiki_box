@@ -12,6 +12,9 @@ import { BuildCtx } from "../../util/ctx"
 import { QuartzPluginData } from "../vfile"
 import fs from "node:fs/promises"
 import { styleText } from "util"
+import fs from "fs"
+import path from "path"
+
 
 const defaultOptions: SocialImageOptions = {
   colorScheme: "lightMode",
@@ -49,10 +52,22 @@ async function generateSocialImage(
     iconBase64,
   })
 
+  const notoSans = fs.readFileSync(
+  path.join(process.cwd(),
+  "quartz/static/fonts/NotoSansJP-Regular.ttf")
+  )
+
   const svg = await satori(imageComponent, {
-    width,
-    height,
-    fonts,
+    width: 1200,
+    height: 630,
+    fonts: [
+      {
+        name: "Noto Sans JP",
+        data: notoSans,
+        weight: 400,
+        style: "normal",
+      },
+    ],
     loadAdditionalAsset: async (languageCode: string, segment: string) => {
       if (languageCode === "emoji") {
         return await loadEmoji(getIconCode(segment))

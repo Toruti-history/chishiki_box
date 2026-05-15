@@ -1,2 +1,16 @@
 @use "./base.scss";
 
+.mermaid {
+  font-family:
+    "Noto Sans JP",
+    "Hiragino Sans",
+    "Yu Gothic",
+    sans-serif !important;
+}
+
+svg[id^="mermaid"] {
+  font-family:
+    "Noto Sans JP",
+    "Hiragino Sans",
+    sans-serif !important;
+}

@@ -1,7 +1,7 @@
 ---
-title: ニコライ2世
+title: 旅順
 aliases:
-  - ニコライ2世
+  - 旅順
 draft: "false"
 tags:
 created: 2026-05-15

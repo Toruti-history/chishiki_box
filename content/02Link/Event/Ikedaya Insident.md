@@ -1,7 +1,7 @@
 ---
-title: ニコライ2世
+title: 池田屋事件
 aliases:
-  - ニコライ2世
+  - 池田屋事件
 draft: "false"
 tags:
 created: 2026-05-15

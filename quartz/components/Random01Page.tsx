@@ -14,7 +14,7 @@ const Random01Page: QuartzComponentConstructor = () => {
             border-radius: 10px;
             border: 1px solid var(--lightgray);
             background: var(--secondary);
-            color: "#4f7c9b"
+            color: "#8eb3cc"
             cursor: pointer;
             transition: all 0.15s ease;
           }

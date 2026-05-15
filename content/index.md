@@ -3,7 +3,8 @@ title: 「知識ボックス」トップページ
 draft: "false"
 tags:
 created: 2026-05-09
-modified: 2026-05-14
+modified: 2026-05-15
+description: 「知識ボックス」トップページ
 ---
 ## ようこそ、「知識ボックス」へ！
 
