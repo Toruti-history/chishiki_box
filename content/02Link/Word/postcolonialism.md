@@ -1,7 +1,7 @@
 ---
-title: 部落
+title: ポストコロニアル
 aliases:
-  - 部落
+  - ポストコロニアル
 draft: "false"
 tags:
 created: 2026-05-15

@@ -1,7 +1,7 @@
 ---
-title: 部落
+title: 植民地化
 aliases:
-  - 部落
+  - 植民地化
 draft: "false"
 tags:
 created: 2026-05-15
