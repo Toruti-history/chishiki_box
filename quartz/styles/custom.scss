@@ -14,3 +14,12 @@ svg[id^="mermaid"] {
     "Hiragino Sans",
     sans-serif !important;
 }
+
+.graph-container .node text {
+  font-size: 9px;
+}
+
+.graph-container text {
+  font-size: 9px;
+  opacity: 0.8;
+}
