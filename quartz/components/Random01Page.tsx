@@ -13,7 +13,7 @@ const Random01Page: QuartzComponentConstructor = () => {
             font-weight: 600;
             border-radius: 10px;
             border: 1px solid var(--lightgray);
-            background #8eb3cc;
+            background #6aa6ce;
             color: #040d13;
             cursor: pointer;
             transition: all 0.15s ease;

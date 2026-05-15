@@ -5,7 +5,7 @@ aliases:
 draft: "false"
 tags:
 created: 2026-05-10
-modified: 2026-05-13
+modified: 2026-05-15
 ---
 ### 書名
 
@@ -30,3 +30,7 @@ modified: 2026-05-13
 ### 国立国会図書館リサーチへのリンク
 
 [外部リンク](https://ndlsearch.ndl.go.jp/books/R100000038-I1257459#bib)
+
+## 読了
+
+2026/2/21
