@@ -47,7 +47,11 @@ export const defaultContentPageLayout: PageLayout = {
 
   right: [
   Random01Page(),
-  Component.Graph(),
+  Component.Graph({
+    localGraph: {
+      depth: 2
+    }
+  }),
   Component.Backlinks(),
   Component.DesktopOnly(Component.TableOfContents()),
 ], 
