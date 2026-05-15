@@ -17,9 +17,9 @@ svg[id^="mermaid"] {
 
 .graph-container .node text {
   font-size: 9px;
+  pointer-events: none;
 }
 
 .graph-container text {
-  font-size: 9px;
-  opacity: 0.8;
+  opacity: 0.6;
 }
