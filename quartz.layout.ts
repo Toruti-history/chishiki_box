@@ -46,11 +46,11 @@ export const defaultContentPageLayout: PageLayout = {
   ],
 
   right: [
-    Random01Page(),
-    Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
-  ], 
+  Random01Page(),
+  Component.Graph(),
+  Component.Backlinks(),
+  Component.DesktopOnly(Component.TableOfContents()),
+], 
 }
 
 // components for pages that display lists of pages
