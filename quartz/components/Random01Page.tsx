@@ -13,15 +13,15 @@ const Random01Page: QuartzComponentConstructor = () => {
             font-weight: 600;
             border-radius: 10px;
             border: 1px solid var(--lightgray);
-            background: var(--secondary);
-            color: #8eb3cc;
+            background #8eb3cc;
+            color: #040d13;
             cursor: pointer;
             transition: all 0.15s ease;
           }
 
           .random-button:hover {
             transform: translateY(-1px);
-            background: var(--highlight);
+            opacity: 0.9;
           }
 
           .random-button:active {
