@@ -14,7 +14,7 @@ description: 「知識ボックス」トップページ
 
 ## 更新情報
 
-<body> <style> .test{ width: 400px; height: 200px; border: 1px solid; overflow: scroll; }.test::-webkit-scrollbar{width: 16px;}.test::-webkit-scrollbar-thumb{background: gray; border-radius: 8px} </style> <p class="test">・2026/05/09 サイト開設<br>・2026/05/11 URLを変えて正式実装<br>・2026/05/13 更新日・作成日の表示を設定、ランダム表示ボタンを追加<br>・2026/05/16 01Pageの00030～00049を追加<br></p> </body>
+<body> <style> .test{ width: 300px; height: 200px; border: 1px solid; overflow: scroll; }.test::-webkit-scrollbar{width: 16px;}.test::-webkit-scrollbar-thumb{background: gray; border-radius: 8px} </style> <p class="test">・2026/05/09 サイト開設<br>・2026/05/11 URLを変えて正式実装<br>・2026/05/13 更新日・作成日の表示を設定、ランダム表示ボタンを追加<br>・2026/05/16 01Pageの00030～00049を追加<br></p> </body>
 
 ***
 ## 方針
@@ -83,3 +83,17 @@ description: 「知識ボックス」トップページ
 - 仕事や趣味等で忙しいので、このサイトの運営は不定期的に、のんびり行う予定です。
 - プログラミング知識はあまり自信がないですが、最近勉強中です。CSSを勉強してこのサイトをより見やすくしたいと思っています。
 - ウィキペディアンになった辺りから、知識の収集・公開に興味を持ち始めました。
+
+<script type="text/javascript" src="[https://platform-api.sharethis.com/js/sharethis.js](https://platform-api.sharethis.com/js/sharethis.js)" defer></script>
+
+<div class="sharethis-share-buttons" data-type="inline-share-buttons" data-labels="cta" data-show_total="false" data-size="small">
+
+<span data-network="twitter"></span>
+
+<span data-network="line"></span>
+
+<span data-network="email"></span>
+
+<span data-network="sharethis"></span>
+
+</div>
