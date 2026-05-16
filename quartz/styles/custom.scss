@@ -23,3 +23,12 @@ svg[id^="mermaid"] {
 .graph-container text {
   opacity: 0.6;
 }
+
+.page::-webkit-scrollbar {
+  width: 16px;
+}
+
+.page::-webkit-scrollbar-thumb {
+  background: gray;
+  border-radius: 8px;
+}
