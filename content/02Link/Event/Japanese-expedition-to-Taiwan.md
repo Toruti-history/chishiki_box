@@ -7,6 +7,10 @@ tags:
 created: 2026-05-11
 modified: 2026-05-16
 ---
+## 関連用語
+
+- [[Taiwan|台湾]]
+
 <div style="display:flex; gap:10px; align-items:center;">
 
   <button

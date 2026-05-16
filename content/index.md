@@ -14,7 +14,15 @@ description: 「知識ボックス」トップページ
 
 ## 更新情報
 
-<body> <style> .test{ width: 300px; height: 200px; border: 1px solid; overflow: scroll; }.test::-webkit-scrollbar{width: 16px;}.test::-webkit-scrollbar-thumb{background: gray; border-radius: 8px} </style> <p class="test">○2026/05/09：サイト開設<br>○2026/05/11：URLを変えて正式実装<br>○2026/05/13：更新日・作成日の表示を設定、ランダム表示ボタンを追加<br>○2026/05/16： 01Pageの00030～00049を追加、X・LINEへのリンク及びURLコピーボタンを追加<br></p> </body>
+<body> 
+<style> .test{ width: 300px; height: 200px; border: 1px solid; overflow: scroll; }.test::-webkit-scrollbar{width: 16px;}.test::-webkit-scrollbar-thumb{background: gray; border-radius: 8px} </style>
+<p class="test">
+○2026/05/09：サイト開設<br>
+○2026/05/11：URLを変えて正式実装<br>
+○2026/05/13：更新日・作成日の表示を設定、ランダム表示ボタンを追加<br>
+○2026/05/16： 01Pageの00030～00053を追加、X・LINEへのリンク及びURLコピーボタンを追加<br>
+</p> 
+</body>
 
 ***
 ## 方針

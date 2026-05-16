@@ -1,41 +1,13 @@
 ---
-title: 00049.ルビのつけ方
+title: 金泳三
 aliases:
-  - 00049.ルビのつけ方
+  - 金泳三
 draft: "false"
-description: ルビのつけ方
+description: 金泳三
 tags:
 created: 2026-05-16
 modified: 2026-05-16
 ---
-## モノルビ
-
-- 一文字単位でルビがつく
-- <ruby>五<rt>ご</rt></ruby><ruby>月<rt>がつ</rt></ruby>
-
-## グループルビ
-
-- 語全体に対してルビがつく
-- <ruby>五月<rt>さつき</rt></ruby>
-
-## モノルビの位置関係
-
-### 肩付き
-
-- 縦組みで、親文字の右肩にルビのスタートを合わせる
-
-### 中ツキ
-
-- 縦組みで、親文字のセンターにルビのセンターを合わせる
-
-#### リンク用
-
-- [[proofreading|校正]]
-
-#### <mark style="background: #EAAFE4A6;">参考文献</mark>
-
-- [[book-008|『みんなの校正教室』]]P.117
-
 <div style="display:flex; gap:10px; align-items:center;">
 
   <button
