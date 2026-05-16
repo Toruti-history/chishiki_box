@@ -1,7 +1,7 @@
 ---
-title: 日露戦争
+title: Quartz
 aliases:
-  - 日露戦争
+  - Quartz
 draft: "false"
 tags:
 created: 2026-05-16

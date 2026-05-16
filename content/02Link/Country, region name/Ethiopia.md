@@ -1,8 +1,9 @@
 ---
-title: 日露戦争
+title: エチオピア
 aliases:
-  - 日露戦争
+  - エチオピア
 draft: "false"
+description: エチオピア
 tags:
 created: 2026-05-16
 modified: 2026-05-16

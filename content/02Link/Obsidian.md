@@ -1,7 +1,7 @@
 ---
-title: 日露戦争
+title: Obsidian
 aliases:
-  - 日露戦争
+  - Obsidian
 draft: "false"
 tags:
 created: 2026-05-16

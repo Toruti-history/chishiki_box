@@ -1,9 +1,9 @@
 ---
-title: 日露戦争
+title: 満洲事変
 aliases:
-  - 日露戦争
+  - 満洲事変
 draft: "false"
 tags:
-created: 2026-05-16
+created: 2026-05-12
 modified: 2026-05-16
 ---

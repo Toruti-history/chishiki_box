@@ -1,8 +1,9 @@
 ---
-title: 日露戦争
+title: オスマン帝国
 aliases:
-  - 日露戦争
+  - オスマン帝国
 draft: "false"
+description:
 tags:
 created: 2026-05-16
 modified: 2026-05-16

@@ -1,8 +1,9 @@
 ---
-title: 日露戦争
+title: クロアチア
 aliases:
-  - 日露戦争
+  - クロアチア
 draft: "false"
+description: クロアチア
 tags:
 created: 2026-05-16
 modified: 2026-05-16

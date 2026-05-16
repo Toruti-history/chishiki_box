@@ -1,7 +1,7 @@
 ---
-title: 日露戦争
+title: Vercel
 aliases:
-  - 日露戦争
+  - Vercel
 draft: "false"
 tags:
 created: 2026-05-16
