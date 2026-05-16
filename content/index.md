@@ -85,7 +85,7 @@ description: 「知識ボックス」トップページ
 - ウィキペディアンになった辺りから、知識の収集・公開に興味を持ち始めました。
 
 <script type="text/javascript" src="[https://platform-api.sharethis.com/js/sharethis.js](https://platform-api.sharethis.com/js/sharethis.js)" defer></script>
-
+<!-- ShareThis BEGINS -->
 <div class="sharethis-share-buttons" data-type="inline-share-buttons" data-labels="cta" data-show_total="false" data-size="small">
 
 <span data-network="twitter"></span>
@@ -97,3 +97,4 @@ description: 「知識ボックス」トップページ
 <span data-network="sharethis"></span>
 
 </div>
+<!-- ShareThis ENDS -->
