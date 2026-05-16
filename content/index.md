@@ -3,7 +3,7 @@ title: 「知識ボックス」トップページ
 draft: "false"
 tags:
 created: 2026-05-09
-modified: 2026-05-15
+modified: 2026-05-16
 description: 「知識ボックス」トップページ
 ---
 ## ようこそ、「知識ボックス」へ！
@@ -13,11 +13,8 @@ description: 「知識ボックス」トップページ
 取り組みの詳細についてはこちらのnote（[外部リンク](https://note.com/history_goomy/n/n526b8e82b168)）をご覧ください。
 
 ## 更新情報
-- 2026/05/09 サイト開設
 
-- 2026/05/11 URLを変えて正式実装
-
-- 2026/05/13 更新日・作成日の表示を設定、ランダム表示ボタンを追加
+<body> <style> .test{ width: 100px; height: 100px; border: 1px solid; overflow: scroll; } </style> <p class="test">・2026/05/09 サイト開設<br>・2026/05/11 URLを変えて正式実装<br>・2026/05/13 更新日・作成日の表示を設定、ランダム表示ボタンを追加<br></p> </body>
 
 ***
 ## 方針
