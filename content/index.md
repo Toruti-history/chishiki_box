@@ -14,7 +14,7 @@ description: 「知識ボックス」トップページ
 
 ## 更新情報
 
-<body> <style> .test{ width: 300px; height: 200px; border: 1px solid; overflow: scroll; }.test::-webkit-scrollbar{width: 16px;}.test::-webkit-scrollbar-thumb{background: gray; border-radius: 8px} </style> <p class="test">・2026/05/09 サイト開設<br>・2026/05/11<br> URLを変えて正式実装<br>・2026/05/13<br> 更新日・作成日の表示を設定、ランダム表示ボタンを追加<br>・2026/05/16<br> 01Pageの00030～00049を追加<br></p> </body>
+<body> <style> .test{ width: 300px; height: 200px; border: 1px solid; overflow: scroll; }.test::-webkit-scrollbar{width: 16px;}.test::-webkit-scrollbar-thumb{background: gray; border-radius: 8px} </style> <p class="test">・2026/05/09 サイト開設<br>・2026/05/11：URLを変えて正式実装<br>・2026/05/13：更新日・作成日の表示を設定、ランダム表示ボタンを追加<br>・2026/05/16： 01Pageの00030～00049を追加<br></p> </body>
 
 ***
 ## 方針
@@ -84,19 +84,52 @@ description: 「知識ボックス」トップページ
 - プログラミング知識はあまり自信がないですが、最近勉強中です。CSSを勉強してこのサイトをより見やすくしたいと思っています。
 - ウィキペディアンになった辺りから、知識の収集・公開に興味を持ち始めました。
 
-<script
-  type="text/javascript"
-  src="https://platform-api.sharethis.com/js/sharethis.js#property=YOUR_PROPERTY_ID&product=inline-share-buttons"
-  async="async">
-</script>
+<div style="display:flex; gap:10px; align-items:center;">
 
-<div class="sharethis-share-buttons"
-     data-type="inline-share-buttons"
-     data-labels="cta"
-     data-show_total="false"
-     data-size="small">
-  <span data-network="twitter"></span>
-  <span data-network="line"></span>
-  <span data-network="email"></span>
-  <span data-network="sharethis"></span>
+  <button
+    onclick="window.open('https://twitter.com/intent/tweet?url=' + encodeURIComponent(window.location.href))"
+    style="
+      width:42px;
+      height:42px;
+      border-radius:9999px;
+      border:none;
+      background:#000;
+      color:white;
+      font-size:18px;
+      cursor:pointer;
+    ">
+    𝕏
+  </button>
+
+  <button
+    onclick="window.open('https://social-plugins.line.me/lineit/share?url=' + encodeURIComponent(window.location.href))"
+    style="
+      width:42px;
+      height:42px;
+      border-radius:9999px;
+      border:none;
+      background:#06c755;
+      color:white;
+      font-size:12px;
+      cursor:pointer;
+    ">
+    LINE
+  </button>
+
+  <button
+    onclick="navigator.clipboard.writeText(window.location.href)"
+    style="
+      width:42px;
+      height:42px;
+      border-radius:9999px;
+      border:none;
+      background:#1d9bf0;
+      color:white;
+      font-size:18px;
+      cursor:pointer;
+    ">
+    🔗
+  </button>
+
 </div>
+
