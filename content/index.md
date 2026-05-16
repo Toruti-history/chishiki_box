@@ -117,24 +117,25 @@ description: 「知識ボックス」トップページ
   </button>
 
   <button
-    onclick="navigator.clipboard.writeText(window.location.href)"
-    style="
-      width:42px;
-      height:42px;
-      border-radius:9999px;
-      border:none;
-      background:#1d9bf0;
-      color:white;
-      font-size:18px;
-      cursor:pointer;
-    ">
-    🔗
-  </button>
-  <script>  
-　function copyUrl() {  
-　　　　　navigator.clipboard.writeText(window.location.href);  
-　alert("URLをコピーしました");  
-}  
+  onclick="copyUrl()"
+  style="
+    width:42px;
+    height:42px;
+    border-radius:9999px;
+    border:none;
+    background:#1d9bf0;
+    color:white;
+    font-size:18px;
+    cursor:pointer;
+  ">
+  🔗
+</button>
+
+<script>
+function copyUrl() {
+  navigator.clipboard.writeText(window.location.href);
+  alert("URLをコピーしました");
+}
 </script>
 
 </div>
