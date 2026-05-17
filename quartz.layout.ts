@@ -67,7 +67,7 @@ export const defaultContentPageLayout: PageLayout = {
   ],
 
   right: [
-  Random01Page(),
+  //Random01Page(),
   Component.Graph({
     localGraph: {
       depth: 2
@@ -75,7 +75,7 @@ export const defaultContentPageLayout: PageLayout = {
   }),
   Component.Backlinks(),
   Component.DesktopOnly(Component.TableOfContents()),
-], 
+ ], 
 }
 
 // components for pages that display lists of pages
