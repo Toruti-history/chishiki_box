@@ -3,7 +3,7 @@ title: 「知識ボックス」トップページ
 draft: "false"
 tags:
 created: 2026-05-09
-modified: 2026-05-17
+modified: 2026-05-18
 description: 「知識ボックス」トップページ
 ---
 ## ようこそ、「知識ボックス」へ！
@@ -14,8 +14,8 @@ description: 「知識ボックス」トップページ
 
 悩んだらひとまず、各ページにある「ページをランダム表示」のボタンを押してみてください。
 
+***
 ## 更新情報
-
 <body> 
 <style> .test{ width: 300px; height: 200px; border: 1px solid; overflow: scroll; }.test::-webkit-scrollbar{width: 16px;}.test::-webkit-scrollbar-thumb{background: gray; border-radius: 8px} </style>
 <p class="test">
@@ -25,6 +25,11 @@ description: 「知識ボックス」トップページ
 ○2026/05/16： X・LINEへのリンク及びURLコピーボタンを追加<br>
 </p> 
 </body>
+***
+## 最近追加したページ
+
+- [[00054|00054.台湾の民進党とは？]]
+- [[00055|00055.ジンバブエ独立の経緯]]
 
 ***
 ## 方針
@@ -112,7 +117,7 @@ description: 「知識ボックス」トップページ
   </button>
 
   <button
-	   onclick="window.location.href='https://line.me/R/msg/text/?' + encodeURIComponent(window.location.href)"
+  onclick="window.location.href='https://line.me/R/msg/text/?' + encodeURIComponent(window.location.href)"
   style="
     width:42px;
     height:42px;

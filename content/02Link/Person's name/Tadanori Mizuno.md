@@ -5,7 +5,7 @@ aliases:
 draft: "false"
 tags:
 created: 2026-05-11
-modified: 2026-05-16
+modified: 2026-05-17
 ---
 読み：みずの　ただのり
 
@@ -27,19 +27,19 @@ modified: 2026-05-16
   </button>
 
   <button
-    onclick="window.open('https://social-plugins.line.me/lineit/share?url=' + encodeURIComponent(window.location.href))"
-    style="
-      width:42px;
-      height:42px;
-      border-radius:9999px;
-      border:none;
-      background:#06c755;
-      color:white;
-      font-size:12px;
-      cursor:pointer;
-    ">
-    LINE
-  </button>
+  onclick="window.location.href='https://line.me/R/msg/text/?' + encodeURIComponent(window.location.href)"
+  style="
+    width:42px;
+    height:42px;
+    border-radius:9999px;
+    border:none;
+    background:#06c755;
+    color:white;
+    font-size:12px;
+    cursor:pointer;
+  ">
+  LINE
+</button>
 
   <button
   onclick="
