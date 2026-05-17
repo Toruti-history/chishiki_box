@@ -2,28 +2,35 @@ import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 import Random01Page from "./quartz/components/Random01Page"
 
-const ShareButtons = () => {
-  return `
-    <div style="display:flex; gap:10px;">
-      ...
-    </div>
-  `
-}
 
 // components shared across all pages
 export const sharedPageComponents = {
   head: Component.Head(),
   header: [],
   afterBody: [
-    ShareButtons()
-  ],
-  footer: Component.Footer({
-    links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
-    },
-  }),
-}
+  Component.Custom({
+    html: `
+      <div style="display:flex; gap:10px; align-items:center;">
+
+        <button onclick="window.open('https://twitter.com/intent/tweet?url=' + encodeURIComponent(window.location.href))"
+          style="width:42px;height:42px;border-radius:9999px;border:none;background:#000;color:white;">
+          𝕏
+        </button>
+
+        <button onclick="window.location.href='https://line.me/R/msg/text/?' + encodeURIComponent(window.location.href)"
+          style="width:42px;height:42px;border-radius:9999px;border:none;background:#06c755;color:white;">
+          LINE
+        </button>
+
+        <button onclick="navigator.clipboard.writeText(window.location.href); alert('URLをコピーしました');"
+          style="width:42px;height:42px;border-radius:9999px;border:none;background:#1d9bf0;color:white;">
+          🔗
+        </button>
+
+      </div>
+    `
+  })
+]
 
 // components for pages that display a single page
 export const defaultContentPageLayout: PageLayout = {
