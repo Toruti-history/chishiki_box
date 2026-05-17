@@ -3,14 +3,16 @@ title: 「知識ボックス」トップページ
 draft: "false"
 tags:
 created: 2026-05-09
-modified: 2026-05-16
+modified: 2026-05-17
 description: 「知識ボックス」トップページ
 ---
 ## ようこそ、「知識ボックス」へ！
 
 こちらはサイト運営者が行っているツェッテルカステン的な知識収集（以下、「知識ボックス」）の成果を公開しているサイトです。
 
-取り組みの詳細についてはこちらのnote（[外部リンク](https://note.com/history_goomy/n/n526b8e82b168)）をご覧ください。
+取り組みの詳細については[[20260511|こちらの日記]]をご覧ください。
+
+悩んだらひとまず、各ページにある「ページをランダム表示」のボタンを押してみてください。
 
 ## 更新情報
 
@@ -20,7 +22,7 @@ description: 「知識ボックス」トップページ
 ○2026/05/09：サイト開設<br>
 ○2026/05/11：URLを変えて正式実装<br>
 ○2026/05/13：更新日・作成日の表示を設定、ランダム表示ボタンを追加<br>
-○2026/05/16： 01Pageの00030～00053を追加、X・LINEへのリンク及びURLコピーボタンを追加<br>
+○2026/05/16： X・LINEへのリンク及びURLコピーボタンを追加<br>
 </p> 
 </body>
 
@@ -110,19 +112,19 @@ description: 「知識ボックス」トップページ
   </button>
 
   <button
-    onclick="window.open('https://social-plugins.line.me/lineit/share?url=' + encodeURIComponent(window.location.href))"
-    style="
-      width:42px;
-      height:42px;
-      border-radius:9999px;
-      border:none;
-      background:#06c755;
-      color:white;
-      font-size:12px;
-      cursor:pointer;
-    ">
-    LINE
-  </button>
+	   onclick="window.location.href='https://line.me/R/msg/text/?' + encodeURIComponent(window.location.href)"
+  style="
+    width:42px;
+    height:42px;
+    border-radius:9999px;
+    border:none;
+    background:#06c755;
+    color:white;
+    font-size:12px;
+    cursor:pointer;
+  ">
+  LINE
+</button>
 
   <button
   onclick="
