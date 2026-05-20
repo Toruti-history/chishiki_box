@@ -1,29 +1,16 @@
 ---
-title: 00062.「北アフリカの星（ENA）」
+title: FLN
 aliases:
-  - 00062.「北アフリカの星（ENA）」
+  - FLN
 draft: "false"
-description: 00062.「北アフリカの星（ENA）」
+description: FLN
 tags:
-created: 2026-05-19
+created: 2026-05-20
 modified: 2026-05-20
 ---
-## 概要
+[[Algeria|アルジェリア]]の「民族解放戦線（FLN）」。
 
-- 1926年、パリで誕生した結社
-- [[Nationalism|ナショナリズム]]と結びついた
-
-## メッサーリ・ハージュ
-
-- 「北アフリカの星」のトップ
-- この結社の目的は
-	- チュニジア・[[Algeria|アルジェリア]]・モロッコの独立
-	- 北アフリカ統一  
-のための闘争とした
-
-#### <mark style="background: #EAAFE4A6;">参考文献</mark>
-
-- [[book-010|『アルジェリア戦争　――フランスと戦後世界をつくった植民地独立闘争』]]P.18～20
+[[00063|00063.アルジェリアのFLN（民族解放戦線）]]参照
 
 
 <div style="display:flex; gap:10px; align-items:center;">
@@ -77,5 +64,3 @@ modified: 2026-05-20
 </button>
 
 </div>
-
-
