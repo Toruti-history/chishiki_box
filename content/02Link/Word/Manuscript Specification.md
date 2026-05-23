@@ -1,33 +1,13 @@
 ---
-title: 00066.イギリスの茶の始まり
+title: 原稿指定
 aliases:
-  - 00066.イギリスの茶の始まり
+  - 原稿指定
 draft: "false"
-description: イギリスの茶の始まり
+description: 原稿指定
 tags:
-created: 2026-05-21
+created: 2026-05-23
 modified: 2026-05-23
 ---
-## 17世紀当時
-
-- 当時は、[[UK|イギリス]]では[[tea|茶]]を「チャ」「チョオ」と呼んだ
-- 当時のイギリスにとって、茶は日本茶だった
-
-## 1644年以降
-
-- この年、イギリスが[[Xiamen|厦門]]に拠点を置く
-- 「ティ」と呼び始める
-
-## 市販
-
-- 1657年、コーヒー・ハウス店主が茶の葉を売り出したのが始まりとされている
-
-
-#### <mark style="background: #EAAFE4A6;">参考文献</mark>
-
-- [[book-011|『茶の世界史　改版　――緑茶の文化と紅茶の世界』]]P.33～35
-
-
 <div style="display:flex; gap:10px; align-items:center;">
 
   <button
@@ -79,5 +59,3 @@ modified: 2026-05-23
 </button>
 
 </div>
-
-
