@@ -1,11 +1,11 @@
 ---
-title: 井上勝生『幕末・維新』
+title: 『幕末・維新』
 aliases:
-  - 井上勝生『幕末・維新』
+  - 『幕末・維新』
 draft: "false"
 tags:
 created: 2026-05-10
-modified: 2026-05-17
+modified: 2026-05-23
 ---
 ### 書名
 
