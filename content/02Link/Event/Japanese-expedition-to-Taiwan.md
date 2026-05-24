@@ -4,12 +4,35 @@ aliases:
   - 台湾出兵
 draft: "false"
 tags:
-created: 2026-05-11
-modified: 2026-05-17
+created: 2026-05-12
+modified: 2026-05-24
+description:
 ---
-## 関連用語
+## 概要
 
-- [[Taiwan|台湾]]
+1871年、琉球王国から[[Taiwan|台湾]]へ漂流した54人が台湾の先住民に殺害された事件（琉球漁民殺害事件）がきっかけとなった
+
+1874年、明治政府は以上の事件を口実として台湾へ出兵した  
+これが明治政府による初の海外出兵であった
+
+結果、日清互換条款により解決した
+
+## 「01Page」からの抜粋
+
+### 日清修好条規　第1条
+
+- [[Qing|清]]は、日本の台湾出兵は[[Sino-Japanese Friendship and Trade Treaty|日清修好条規]]第1条に反するとして批判した
+- 日本は、台湾の「生蕃」は清に「属」していないとした
+
+### 李鴻章による海軍建設
+
+- 清が当時[[Li-Hongzhang|李鴻章]]の[[Huai Army|淮軍]]のみが頼れる状況で台湾出兵が起きたことで、対外的な危機感を持ち始めた背景がある
+
+
+#### <mark style="background: #EAAFE4A6;">参考文献</mark>
+
+- [[book-003|『日本史用語集　A・B共用』]]P.240
+
 
 <div style="display:flex; gap:10px; align-items:center;">
 

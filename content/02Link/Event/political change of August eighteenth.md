@@ -5,8 +5,26 @@ aliases:
 draft: "false"
 tags:
 created: 2026-05-12
-modified: 2026-05-17
+modified: 2026-05-24
+description:
 ---
+## 概要
+
+1863年9月30日（文久3年8月18日）に発生した、公武合体派によるクーデタ
+
+## 「01Page」からの抜粋
+
+### 1863年9月30日（文久3年8月18日）
+
+- 長州藩と尊皇攘夷過激派は京都から追放される
+
+- [[Sanetomi Sanjo|三条実美]]・<ruby>東久世通禧<rt>ひがしくぜみちとみ</rt></ruby>・<ruby>澤宣嘉<rt>さわのぶよし</rt></ruby>らが長州へ敗走
+
+#### <mark style="background: #EAAFE4A6;">参考文献</mark>
+
+- [[book-003|『日本史用語集　A・B共用』]]P.220
+
+
 <div style="display:flex; gap:10px; align-items:center;">
 
   <button

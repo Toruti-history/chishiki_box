@@ -6,8 +6,17 @@ draft: "false"
 description: アルジェリア戦争
 tags:
 created: 2026-05-20
-modified: 2026-05-20
+modified: 2026-05-24
 ---
+## 概要
+
+1954年から1962年にかけ、当時[[France|フランス]]領であった[[Algeria|アルジェリア]]で起きた独立戦争。
+
+[[Front de Libération Nationale|FLN]]による武力闘争が続いた。
+
+## 抜粋
+
+- FLN（民族解放戦線）が独立戦争を本格化させた
 
 
 <div style="display:flex; gap:10px; align-items:center;">

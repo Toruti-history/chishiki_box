@@ -5,9 +5,27 @@ aliases:
 draft: "false"
 description: コソヴォの戦い
 tags:
-created: 2026-05-16
-modified: 2026-05-17
+created: 2026-05-12
+modified: 2026-05-24
 ---
+## 概要
+
+1389年、[[Kingdom of Serbia　(medieval)|セルビア王国]]内のコソヴォで発生した、[[Ottoman Empire|オスマン帝国]]ムラト1世とセルビア・ブルガリア・ワラキア・ボスニア連合軍の間で発生した戦い。
+
+この結果、オスマン帝国が勝利し、バルカン半島への進出に成功した。
+
+
+## 「01Page」からの抜粋
+
+- 19世紀セルビアにおいても、1389年、コソヴォの戦いで戦ったセルビアのマルコ王子の英雄譚が語り継がれていた
+- これが、セルビアの民族意識が形成される要因の一つとなった。
+
+
+#### <mark style="background: #EAAFE4A6;">参考文献</mark>
+
+- ブリタニカ国際大百科事典「コソボの戦い（Kosovo）」
+
+
 <div style="display:flex; gap:10px; align-items:center;">
 
   <button
