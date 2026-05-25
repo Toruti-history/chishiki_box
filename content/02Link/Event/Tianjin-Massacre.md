@@ -23,9 +23,9 @@ description:
 - <mark style="background: #ABF7F7A6;">天津教案</mark>の処理には、武力の裏付けが必要だった
 - [[Zeng Guofan|曾国藩]]はうまく立ち回れなかったが、[[Li-Hongzhang|李鴻章]]の働きにより事態は円滑に進んだ
 
-
 #### <mark style="background: #EAAFE4A6;">参考文献</mark>
 
+- ブリタニカ「天津教案」
 
 <div style="display:flex; gap:10px; align-items:center;">
 
