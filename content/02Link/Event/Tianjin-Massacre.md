@@ -4,9 +4,29 @@ aliases:
   - 天津教案
 draft: "false"
 tags:
-created: 2026-05-11
-modified: 2026-05-17
+created: 2026-05-12
+modified: 2026-05-25
+description:
 ---
+## 概要
+
+[[Qing|清]]の天津で発生した、反キリスト教暴行事件
+
+[[France|フランス]]領事をはじめとした外国人や中国人キリスト教徒が殺害された
+
+戦争の火種になりかけたが、[[Germany|ドイツ]]や[[Italy|イタリア]]の統一戦争に巻き込まれていたフランスは賠償をとるだけに留まった
+
+## 「01Page」からの抜粋
+
+### 曾国藩から李鴻章へ
+
+- <mark style="background: #ABF7F7A6;">天津教案</mark>の処理には、武力の裏付けが必要だった
+- [[Zeng Guofan|曾国藩]]はうまく立ち回れなかったが、[[Li-Hongzhang|李鴻章]]の働きにより事態は円滑に進んだ
+
+
+#### <mark style="background: #EAAFE4A6;">参考文献</mark>
+
+
 <div style="display:flex; gap:10px; align-items:center;">
 
   <button
