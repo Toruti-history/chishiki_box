@@ -20,13 +20,13 @@ description:
 
 ### 江戸幕府が「開国」を受け入れた理由
 
-- [[oranda_betudan_fusetsugaki|オランダ別段風説書]]により、アヘン戦争における中国の敗北が知らされた
-- この書物は、アヘン戦争の2年後から毎年送られるようになった
+- [[oranda_betudan_fusetsugaki|オランダ別段風説書]]により、<mark style="background: #ABF7F7A6;">アヘン戦争</mark>における中国の敗北が知らされた
+- この書物は、<mark style="background: #ABF7F7A6;">アヘン戦争</mark>の2年後から毎年送られるようになった
 
 ### 『視聴草』続八集の四に載っているオランダ国王の国書
 
 - 通商が盛んな今、「[[Sakoku|鎖国]]」を続けるべきではない
-- アヘン戦争で清は惨敗した
+- <mark style="background: #ABF7F7A6;">アヘン戦争</mark>で清は惨敗した
 
 しかし、幕府はこれに従わなかった
 

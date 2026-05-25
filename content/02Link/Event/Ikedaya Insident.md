@@ -5,7 +5,7 @@ aliases:
 draft: "false"
 tags:
 created: 2026-05-12
-modified: 2026-05-24
+modified: 2026-05-25
 description:
 ---
 ## 概要
@@ -20,7 +20,7 @@ description:
 
 ### 2度の長州征討
 
-- 第一次長州征討のきっかけは、池田屋事件を契機に入京した長州藩の急進派が、薩摩・会津・桑名の藩兵と武力衝突したことにある
+- 第一次長州征討のきっかけは、<mark style="background: #ABF7F7A6;">池田屋事件</mark>を契機に入京した長州藩の急進派が、薩摩・会津・桑名の藩兵と武力衝突したことにある
 
 #### <mark style="background: #EAAFE4A6;">参考文献</mark>
 

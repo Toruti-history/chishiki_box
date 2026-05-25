@@ -5,7 +5,7 @@ aliases:
 draft: "false"
 tags:
 created: 2026-05-12
-modified: 2026-05-24
+modified: 2026-05-25
 description:
 ---
 ## 概要
@@ -16,7 +16,7 @@ description:
 
 ### 露清密約
 
-- この密約は、ロシア勢力を清に引き入れ、[[Russo-Japanese War|日露戦争]]や満洲事変などの原因となったと批判されることも多い
+- この密約は、ロシア勢力を清に引き入れ、[[Russo-Japanese War|日露戦争]]や<mark style="background: #ABF7F7A6;">満洲事変</mark>などの原因となったと批判されることも多い
 - 一方で、その他に選択肢があったのか？という意見もある
 
 #### <mark style="background: #EAAFE4A6;">参考文献</mark>
