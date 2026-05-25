@@ -4,9 +4,29 @@ aliases:
   - 日露戦争
 draft: "false"
 tags:
-created: 2026-05-16
-modified: 2026-05-17
+created: 2026-05-12
+modified: 2026-05-25
+description:
 ---
+## 概要
+
+1904年に発生した、日本と[[Russia|ロシア]]間の戦争
+
+講和条約であるポーツマス条約が結ばれた
+
+
+## 「01Page」からの抜粋
+
+### 露清密約
+
+- この密約は、ロシア勢力を清に引き入れ、日露戦争や[[Japanese invasion of Manchuria|満洲事変]]などの原因となったと批判されることも多い
+- 一方で、その他に選択肢があったのか？という意見もある
+
+#### <mark style="background: #EAAFE4A6;">参考文献</mark>
+
+
+
+
 <div style="display:flex; gap:10px; align-items:center;">
 
   <button
