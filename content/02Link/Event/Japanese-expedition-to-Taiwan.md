@@ -5,7 +5,7 @@ aliases:
 draft: "false"
 tags:
 created: 2026-05-12
-modified: 2026-05-24
+modified: 2026-05-25
 description:
 ---
 ## 概要
@@ -21,12 +21,12 @@ description:
 
 ### 日清修好条規　第1条
 
-- [[Qing|清]]は、日本の台湾出兵は[[Sino-Japanese Friendship and Trade Treaty|日清修好条規]]第1条に反するとして批判した
+- [[Qing|清]]は、日本の<mark style="background: #ABF7F7A6;">台湾出兵</mark>は[[Sino-Japanese Friendship and Trade Treaty|日清修好条規]]第1条に反するとして批判した
 - 日本は、台湾の「生蕃」は清に「属」していないとした
 
 ### 李鴻章による海軍建設
 
-- 清が当時[[Li-Hongzhang|李鴻章]]の[[Huai Army|淮軍]]のみが頼れる状況で台湾出兵が起きたことで、対外的な危機感を持ち始めた背景がある
+- 清が当時[[Li-Hongzhang|李鴻章]]の[[Huai Army|淮軍]]のみが頼れる状況で<mark style="background: #ABF7F7A6;">台湾出兵</mark>が起きたことで、対外的な危機感を持ち始めた背景がある
 
 
 #### <mark style="background: #EAAFE4A6;">参考文献</mark>

@@ -19,6 +19,17 @@ description:
 
 ## 「01Page」からの抜粋
 
+### 『視聴草』続八集の四
+
+- オランダ国王は以下の提言をした
+	- 通商が盛んな今、「<mark style="background: #ABF7F7A6;">鎖国</mark>」を続けるべきではない
+	- [[First-Opium-War|アヘン戦争]]で[[Qing|清]]は惨敗した
+
+### 条約勅許問題
+
+- 1852年2月、[[Masayoshi Hotta|堀田正睦]]らが「大略」を提出した
+- [[Emperor Komei|孝明天皇]]は<mark style="background: #ABF7F7A6;">鎖国</mark>継続をとなえた
+- 堀田は失墜し、左遷される
 
 
 #### <mark style="background: #EAAFE4A6;">参考文献</mark>

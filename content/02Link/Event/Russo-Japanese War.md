@@ -19,7 +19,7 @@ description:
 
 ### 露清密約
 
-- この密約は、ロシア勢力を清に引き入れ、日露戦争や[[Japanese invasion of Manchuria|満洲事変]]などの原因となったと批判されることも多い
+- この密約は、ロシア勢力を清に引き入れ、<mark style="background: #ABF7F7A6;">日露戦争</mark>や[[Japanese invasion of Manchuria|満洲事変]]などの原因となったと批判されることも多い
 - 一方で、その他に選択肢があったのか？という意見もある
 
 #### <mark style="background: #EAAFE4A6;">参考文献</mark>
