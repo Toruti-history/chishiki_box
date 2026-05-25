@@ -5,7 +5,7 @@ aliases:
 draft: "false"
 tags:
 created: 2026-05-12
-modified: 2026-05-24
+modified: 2026-05-25
 description:
 ---
 ## 概要
@@ -18,7 +18,7 @@ description:
 
 ### クリミア戦争と日本
 
-- クリミア戦争で、クリミア戦争でイギリス・フランスは私掠船廃止を宣言したが、ロシアは宣言しなかった
+- <mark style="background: #ABF7F7A6;">クリミア戦争</mark>で、イギリス・フランスは私掠船廃止を宣言したが、ロシアは宣言しなかった
 	- イギリスは自国の商船をロシアから守る必要が出てきた
 		- イギリスは日本への寄港を求めた
 	
@@ -30,7 +30,7 @@ description:
 
 ### 草莽の活動
 
-- [[Shinsuke Takasugi|高杉晋作]]が結成した奇兵隊では、クリミア戦争でイギリスが使用したミニエー銃を用いた
+- [[Shinsuke Takasugi|高杉晋作]]が結成した奇兵隊では、<mark style="background: #ABF7F7A6;">クリミア戦争</mark>でイギリスが使用したミニエー銃を用いた
 
 #### <mark style="background: #EAAFE4A6;">参考文献</mark>
 
