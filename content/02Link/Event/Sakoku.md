@@ -10,7 +10,11 @@ description:
 ---
 ## 概要
 
+江戸時代、日本人の海外渡航と外国船の来航を規制した政策のこと
 
+1641年に[[Netherlands|オランダ]]人を出島に移住させ、完了した
+
+1854年の[[Japan–US Treaty of Peace and Amity|日米和親条約]]までこれは続いた
 
 
 ## 「01Page」からの抜粋
