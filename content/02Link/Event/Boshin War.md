@@ -5,7 +5,7 @@ aliases:
 draft: "false"
 tags:
 created: 2026-05-12
-modified: 2026-05-24
+modified: 2026-05-25
 description:
 ---
 ## 概要
@@ -19,7 +19,7 @@ description:
 ## 「01Page」からの抜粋
 
 - 1867年、公議合体派は王政復古の大号令を急遽知らされた。
-- [[Yoshinobu Tokugawa|徳川慶喜]]に対する「辞官納地」に反対し、慶喜の清政府への参加を求めて反撃を始め、これが戊辰戦争のきっかけとなる。
+- [[Yoshinobu Tokugawa|徳川慶喜]]に対する「辞官納地」に反対し、慶喜の清政府への参加を求めて反撃を始め、これが<mark style="background: #ABF7F7A6;">戊辰戦争</mark>のきっかけとなる。
 
 #### <mark style="background: #EAAFE4A6;">参考文献</mark>
 

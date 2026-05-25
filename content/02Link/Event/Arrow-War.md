@@ -5,7 +5,7 @@ aliases:
 draft: "false"
 tags:
 created: 2026-05-24
-modified: 2026-05-24
+modified: 2026-05-25
 description:
 ---
 ## 概要
@@ -23,7 +23,7 @@ description:
 ## 「01Page」からの抜粋
 
 - [[Japan–US Treaty of Peace and Amity|日米和親条約]]も[[Treaty of Amity and Commerce Between the United States and the Empire of Japan|日米修好通商条約]]も、外国人が自由に歩ける範囲を定めた
-- これがアロー戦争後の清が結ばされた天津条約との大きな違いである
+- これが<mark style="background: #ABF7F7A6;">アロー戦争</mark>後の清が結ばされた天津条約との大きな違いである
 
 #### <mark style="background: #EAAFE4A6;">参考文献</mark>
 

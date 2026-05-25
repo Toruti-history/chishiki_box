@@ -16,9 +16,9 @@ modified: 2026-05-25
 
 ## 「01Page」からの抜粋
 
-- [[Illyrians|イリリア人]]に由来する<mark style="background: #ABF7F7A6;">イリュリア王国</mark>（1816～1849年）はウィーン会議後に成立した
+- [[Illyrians|イリリア人]]に由来するイリュリア王国（1816～1849年）は<mark style="background: #ABF7F7A6;">ウィーン会議</mark>後に成立した
 
-- ウィーン会議による正統主義（フランス革命以前の体制に戻そうとする考え）に基づき、[[Charles X|シャルル10世]]は王政の成果を示すために[[Algeria|アルジェリア]]へ侵攻した
+- <mark style="background: #ABF7F7A6;">ウィーン会議</mark>による正統主義（フランス革命以前の体制に戻そうとする考え）に基づき、[[Charles X|シャルル10世]]は王政の成果を示すために[[Algeria|アルジェリア]]へ侵攻した
 
 #### <mark style="background: #EAAFE4A6;">参考文献</mark>
 

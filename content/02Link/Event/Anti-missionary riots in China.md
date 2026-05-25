@@ -5,7 +5,7 @@ aliases:
 draft: "false"
 tags:
 created: 2026-05-12
-modified: 2026-05-24
+modified: 2026-05-25
 description:
 ---
 ## 概要
@@ -16,7 +16,7 @@ description:
 
 ## 「01Page」からの抜粋
 
-- [[Boxer movement|義和団]]は、 華北での教案の最大勢力
+- [[Boxer movement|義和団]]は、 華北での<mark style="background: #ABF7F7A6;">教案</mark>の最大勢力
 - 排外傾向を強めていた清朝中央は、1900年に義和団を北京へ招く
 - 清軍と義和団は外国公使館を攻撃し、日本・[[Germany|ドイツ]]の外交官を殺害した
 
