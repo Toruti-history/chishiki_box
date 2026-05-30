@@ -3,9 +3,10 @@ title: 日露戦争
 aliases:
   - 日露戦争
 draft: "false"
+sort: にちろせんそう
 tags:
 created: 2026-05-12
-modified: 2026-05-25
+modified: 2026-05-30
 description:
 ---
 ## 概要

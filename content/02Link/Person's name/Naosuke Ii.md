@@ -5,7 +5,9 @@ aliases:
 draft: "false"
 tags:
 created: 2026-05-11
-modified: 2026-05-17
+modified: 2026-05-30
+description: 井伊直弼
+sort: いいなおすけ
 ---
 <div style="display:flex; gap:10px; align-items:center;">
 

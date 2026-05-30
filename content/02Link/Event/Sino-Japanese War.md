@@ -3,9 +3,10 @@ title: 日清戦争
 aliases:
   - 日清戦争
 draft: "false"
+sort: にっしんせんそう
 tags:
 created: 2026-05-12
-modified: 2026-05-25
+modified: 2026-05-30
 description: 日清戦争
 ---
 ## 概要

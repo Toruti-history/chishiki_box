@@ -3,11 +3,22 @@ title: アマルティア・セン
 aliases:
   - アマルティア・セン
 draft: "false"
+sort: あまるてぃあせん
 description: アマルティア・セン
 tags:
-created: 2026-05-16
-modified: 2026-05-17
+created: 2026-05-12
+modified: 2026-05-30
 ---
+## 概要
+
+
+## 「01Page」からの抜粋
+
+
+
+#### <mark style="background: #EAAFE4A6;">参考文献</mark>
+
+
 <div style="display:flex; gap:10px; align-items:center;">
 
   <button

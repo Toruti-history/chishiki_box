@@ -6,7 +6,8 @@ draft: "false"
 description: 造本設計
 tags:
 created: 2026-05-23
-modified: 2026-05-23
+modified: 2026-05-30
+sort: ぞうほんせっけい
 ---
 <div style="display:flex; gap:10px; align-items:center;">
 

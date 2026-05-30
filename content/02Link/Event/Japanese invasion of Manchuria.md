@@ -3,9 +3,10 @@ title: 満洲事変
 aliases:
   - 満洲事変
 draft: "false"
+sort: まんしゅうじへん
 tags:
 created: 2026-05-12
-modified: 2026-05-25
+modified: 2026-05-30
 description:
 ---
 ## 概要

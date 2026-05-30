@@ -5,7 +5,9 @@ aliases:
 draft: "false"
 tags:
 created: 2026-05-11
-modified: 2026-05-17
+modified: 2026-05-30
+description: 日米和親条約
+sort: にちべいわしんじょうやく
 ---
 詳細：[[00004]]
 

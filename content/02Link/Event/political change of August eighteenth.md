@@ -2,10 +2,11 @@
 title: 八月十八日の政変
 aliases:
   - 八月十八日の政変
+sort: はちがつじゅうはちにちのせいへん
 draft: "false"
 tags:
 created: 2026-05-12
-modified: 2026-05-24
+modified: 2026-05-30
 description:
 ---
 ## 概要

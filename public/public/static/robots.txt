@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://chishiki-box-xmos.vercel.app/sitemap.xml

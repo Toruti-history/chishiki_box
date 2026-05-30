@@ -6,7 +6,8 @@ draft: "false"
 description: ウィレム2世
 tags:
 created: 2026-05-24
-modified: 2026-05-24
+modified: 2026-05-30
+sort: うぃれむにせい
 ---
 ## 概要
 

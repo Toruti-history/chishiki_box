@@ -2,11 +2,12 @@
 title: 陳水扁
 aliases:
   - 陳水扁
+sort: ちんすいへん
 draft: "false"
 description: 陳水扁
 tags:
 created: 2026-05-18
-modified: 2026-05-18
+modified: 2026-05-30
 ---
 <div style="display:flex; gap:10px; align-items:center;">
 

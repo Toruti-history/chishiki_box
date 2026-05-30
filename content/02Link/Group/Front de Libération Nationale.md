@@ -5,12 +5,33 @@ aliases:
 draft: "false"
 description: FLN
 tags:
-created: 2026-05-20
-modified: 2026-05-20
+created: 2026-05-12
+modified: 2026-05-30
+sort: FLN
 ---
-[[Algeria|アルジェリア]]の「民族解放戦線（FLN）」。
+## 概要
 
-[[00063|00063.アルジェリアのFLN（民族解放戦線）]]参照
+1954年10月23日に発足し、[[France|フランス]]に対する[[Algeria|アルジェリア]]独立闘争を行った宣言した武装グループ
+
+[[World War Ⅱ|第二次世界大戦]]後に結成された武装グループをベースとして設立された
+
+## 「01Page」からの抜粋
+
+### アルジェリアのFLN（民族解放戦線）
+
+#### 「赤い万聖節」
+
+- 1954年に<mark style="background: #ABF7F7A6;">FLN</mark>が起こしたテロ
+- これがアルジェリアの独立闘争を本格化させた
+
+#### スンマム会議（1956年）
+
+- [[Algerian War|アルジェリア戦争]]が全面戦争となった時期、アルジェリア共産党などを取り込んだ<mark style="background: #ABF7F7A6;">FLN</mark>が開いた
+- <mark style="background: #ABF7F7A6;">FLN</mark>が国民唯一の代表であると公表
+
+#### <mark style="background: #EAAFE4A6;">参考文献</mark>
+
+- [[book-010|『アルジェリア戦争　――フランスと戦後世界をつくった植民地独立闘争』]]P27
 
 
 <div style="display:flex; gap:10px; align-items:center;">

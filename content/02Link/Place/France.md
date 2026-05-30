@@ -4,9 +4,10 @@ aliases:
   - フランス
 draft: "false"
 tags:
-  - 国・地名
 created: 2026-05-11
-modified: 2026-05-17
+modified: 2026-05-30
+description: フランス
+sort: ふらんす
 ---
 <div style="display:flex; gap:10px; align-items:center;">
 

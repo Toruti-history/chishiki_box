@@ -3,12 +3,36 @@ title: 民主進歩党
 aliases:
   - 民主進歩党
 draft: "false"
+sort: みんしゅしんぽとう
 description: 民主進歩党
 tags:
-created: 2026-05-16
-modified: 2026-05-17
+created: 2026-05-12
+modified: 2026-05-30
 ---
-[[Taiwan|台湾]]の政党。
+## 概要
+
+1986年に反国民党勢力が集まって結結成された、[[Taiwan|台湾]]の政党
+
+略称：「民進党」
+
+## 「01Page」からの抜粋
+
+#### 民進党政権
+
+- [[Chen Shui-bian|陳水扁]]（2000～2008年）
+- 蔡英文（2016～2024年）
+- 頼清徳（2024年～）
+
+#### 対中姿勢
+
+- 台湾独立を主張
+	国民党は独立反対
+- 「一つの中国」を認めない
+
+#### <mark style="background: #EAAFE4A6;">参考文献</mark>
+
+- [[book-013|『世界史用語集』]]P350
+
 
 <div style="display:flex; gap:10px; align-items:center;">
 

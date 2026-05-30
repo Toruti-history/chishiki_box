@@ -6,7 +6,8 @@ draft: "false"
 description: ソ連
 tags:
 created: 2026-05-12
-modified: 2026-05-18
+modified: 2026-05-30
+sort: それん
 ---
 <div style="display:flex; gap:10px; align-items:center;">
 

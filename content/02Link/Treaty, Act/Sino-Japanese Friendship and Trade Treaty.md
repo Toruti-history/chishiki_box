@@ -5,7 +5,9 @@ aliases:
 draft: "false"
 tags:
 created: 2026-05-11
-modified: 2026-05-17
+modified: 2026-05-30
+description: 日清修好条規
+sort: にっしんしゅうこうじょうき
 ---
 原文は[[m-00111|資料：日清修好条規]]にて
 

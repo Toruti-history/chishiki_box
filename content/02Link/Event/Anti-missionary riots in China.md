@@ -3,9 +3,10 @@ title: 教案
 aliases:
   - 教案
 draft: "false"
+sort: きょうあん
 tags:
 created: 2026-05-12
-modified: 2026-05-25
+modified: 2026-05-30
 description:
 ---
 ## 概要

@@ -3,9 +3,10 @@ title: 江華島事件
 aliases:
   - 江華島事件
 draft: "false"
+sort: こうかとうじけん
 tags:
 created: 2026-05-12
-modified: 2026-05-24
+modified: 2026-05-30
 description:
 ---
 ## 概要

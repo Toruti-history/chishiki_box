@@ -2,11 +2,12 @@
 title: シャルル10世
 aliases:
   - シャルル10世
+sort: しゃるるじゅっせい
 draft: "false"
 description: シャルル10世
 tags:
 created: 2026-05-19
-modified: 2026-05-19
+modified: 2026-05-30
 ---
 <div style="display:flex; gap:10px; align-items:center;">
 

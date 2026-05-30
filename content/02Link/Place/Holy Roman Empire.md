@@ -1,13 +1,23 @@
 ---
-title: イギリス東インド会社
+title: 神聖ローマ帝国
 aliases:
-  - イギリス東インド会社
+  - 神聖ローマ帝国
 draft: "false"
-description: イギリス東インド会社
+description: 神聖ローマ帝国
 tags:
-created: 2026-05-23
-modified: 2026-05-23
+created: 2026-05-30
+modified: 2026-05-30
+sort: しんせいろおまていこく
 ---
+## 概要
+
+
+## 「01Page」からの抜粋
+
+
+
+#### <mark style="background: #EAAFE4A6;">参考文献</mark>
+
 
 <div style="display:flex; gap:10px; align-items:center;">
 
@@ -60,5 +70,3 @@ modified: 2026-05-23
 </button>
 
 </div>
-
-

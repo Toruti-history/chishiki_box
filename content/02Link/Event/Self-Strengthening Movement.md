@@ -3,9 +3,10 @@ title: 洋務運動
 aliases:
   - 洋務運動
 draft: "false"
+sort: ようむうんどう
 tags:
 created: 2026-05-12
-modified: 2026-05-25
+modified: 2026-05-30
 description:
 ---
 ## 概要

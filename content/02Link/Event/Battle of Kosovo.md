@@ -3,10 +3,11 @@ title: コソヴォの戦い
 aliases:
   - コソヴォの戦い
 draft: "false"
+sort: こそうぉのたたかい
 description: コソヴォの戦い
 tags:
 created: 2026-05-12
-modified: 2026-05-25
+modified: 2026-05-30
 ---
 ## 概要
 

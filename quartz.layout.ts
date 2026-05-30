@@ -42,7 +42,11 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     }),
 
-    Component.Explorer(),
+    Component.Explorer({
+      sortFn: (a, b) => {
+        throw new Error(JSON.stringify(a, null, 2))
+      },
+    })
   ],
 
   right: [

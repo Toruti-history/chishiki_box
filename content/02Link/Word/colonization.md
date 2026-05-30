@@ -5,7 +5,9 @@ aliases:
 draft: "false"
 tags:
 created: 2026-05-15
-modified: 2026-05-17
+modified: 2026-05-30
+description: 植民地化
+sort: しょくみんちか
 ---
 ## 関連語
 

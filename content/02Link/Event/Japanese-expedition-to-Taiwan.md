@@ -3,9 +3,10 @@ title: 台湾出兵
 aliases:
   - 台湾出兵
 draft: "false"
+sort: たいわんしゅっぺい
 tags:
 created: 2026-05-12
-modified: 2026-05-25
+modified: 2026-05-30
 description:
 ---
 ## 概要

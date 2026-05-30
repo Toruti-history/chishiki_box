@@ -5,7 +5,9 @@ aliases:
 draft: "false"
 tags:
 created: 2026-05-11
-modified: 2026-05-17
+modified: 2026-05-30
+description: 安藤信正
+sort: あんどうのぶまさ
 ---
 <div style="display:flex; gap:10px; align-items:center;">
 

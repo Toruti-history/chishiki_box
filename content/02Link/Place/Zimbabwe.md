@@ -6,7 +6,8 @@ draft: "false"
 description: ジンバブエ
 tags:
 created: 2026-05-18
-modified: 2026-05-18
+modified: 2026-05-30
+sort: じんばぶえ
 ---
 <div style="display:flex; gap:10px; align-items:center;">
 

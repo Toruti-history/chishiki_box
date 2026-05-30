@@ -3,10 +3,11 @@ title: エチオピア革命
 aliases:
   - エチオピア革命
 draft: "false"
+sort: えちおぴあかくめい
 description: エチオピア革命
 tags:
 created: 2026-05-12
-modified: 2026-05-24
+modified: 2026-05-30
 ---
 ## 概要
 

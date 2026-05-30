@@ -3,10 +3,11 @@ title: 植民地
 aliases:
   - 植民地
 draft: "false"
-description:
+description: 植民地
 tags:
 created: 2026-05-16
-modified: 2026-05-17
+modified: 2026-05-30
+sort: しょくみんち
 ---
 ## 関連語
 

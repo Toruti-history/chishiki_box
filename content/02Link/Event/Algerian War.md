@@ -6,7 +6,8 @@ draft: "false"
 description: アルジェリア戦争
 tags:
 created: 2026-05-20
-modified: 2026-05-24
+modified: 2026-05-30
+sort: あるじぇりあせんそう
 ---
 ## 概要
 

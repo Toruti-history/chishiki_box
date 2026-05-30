@@ -3,9 +3,10 @@ title: 鎖国
 aliases:
   - 鎖国
 draft: "false"
+sort: さこく
 tags:
 created: 2026-05-12
-modified: 2026-05-25
+modified: 2026-05-30
 description:
 ---
 ## 概要

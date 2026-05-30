@@ -6,7 +6,8 @@ draft: "false"
 description: ベルリン条約（1878年）
 tags:
 created: 2026-05-16
-modified: 2026-05-17
+modified: 2026-05-30
+sort: べるりんじょうやく　1878
 ---
 露土戦争の講和条約であるサン・ステファノ条約を修正した条約。
 

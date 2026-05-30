@@ -5,7 +5,9 @@ aliases:
 draft: "false"
 tags:
 created: 2026-05-12
-modified: 2026-05-17
+modified: 2026-05-30
+description: 伊達宗城
+sort: だてむねなり
 ---
 読み：だて　むねなり
 

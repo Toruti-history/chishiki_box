@@ -3,9 +3,10 @@ title: アヘン戦争
 aliases:
   - アヘン戦争
 draft: "false"
+sort: あへんせんそう
 tags:
 created: 2026-05-12
-modified: 2026-05-25
+modified: 2026-05-30
 description:
 ---
 ## 概要

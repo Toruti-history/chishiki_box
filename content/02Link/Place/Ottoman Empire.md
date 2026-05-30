@@ -3,10 +3,11 @@ title: オスマン帝国
 aliases:
   - オスマン帝国
 draft: "false"
-description:
+description: オスマン帝国
 tags:
 created: 2026-05-16
-modified: 2026-05-17
+modified: 2026-05-30
+sort: おすまんていこく
 ---
 <div style="display:flex; gap:10px; align-items:center;">
 

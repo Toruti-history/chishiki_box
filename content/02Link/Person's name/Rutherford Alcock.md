@@ -5,7 +5,9 @@ aliases:
 draft: "false"
 tags:
 created: 2026-05-14
-modified: 2026-05-17
+modified: 2026-05-30
+description: オールコック
+sort: おーるこっく
 ---
 <div style="display:flex; gap:10px; align-items:center;">
 

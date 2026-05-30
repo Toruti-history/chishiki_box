@@ -6,7 +6,8 @@ draft: "false"
 description: 社会主義
 tags:
 created: 2026-05-12
-modified: 2026-05-18
+modified: 2026-05-30
+sort: しゃかいしゅぎ
 ---
 <div style="display:flex; gap:10px; align-items:center;">
 

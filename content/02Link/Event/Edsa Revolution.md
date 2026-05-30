@@ -3,9 +3,10 @@ title: エドゥサ革命
 aliases:
   - エドゥサ革命
 draft: "false"
+sort: えどぅさかくめい
 tags:
 created: 2026-05-12
-modified: 2026-05-24
+modified: 2026-05-30
 description:
 ---
 ## 概要

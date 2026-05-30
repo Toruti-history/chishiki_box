@@ -3,10 +3,11 @@ title: ウィーン会議
 aliases:
   - ウィーン会議
 draft: "false"
+sort: うぃーんかいぎ
 description: ウィーン会議
 tags:
 created: 2026-05-12
-modified: 2026-05-25
+modified: 2026-05-30
 ---
 ## 概要
 

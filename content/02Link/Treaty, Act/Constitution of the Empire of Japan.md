@@ -6,7 +6,8 @@ draft: "false"
 description: 大日本帝国憲法
 tags:
 created: 2026-05-19
-modified: 2026-05-19
+modified: 2026-05-30
+sort: だいにっぽんていこくけんぽう
 ---
 <div style="display:flex; gap:10px; align-items:center;">
 

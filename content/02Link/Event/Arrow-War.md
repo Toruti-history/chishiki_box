@@ -3,9 +3,10 @@ title: アロー戦争
 aliases:
   - アロー戦争
 draft: "false"
+sort: あろうせんそう
 tags:
 created: 2026-05-24
-modified: 2026-05-25
+modified: 2026-05-30
 description:
 ---
 ## 概要

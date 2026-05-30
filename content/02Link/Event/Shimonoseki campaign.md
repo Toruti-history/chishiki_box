@@ -3,9 +3,10 @@ title: 下関戦争
 aliases:
   - 下関戦争
 draft: "false"
+sort: しものせきじょうやく
 tags:
 created: 2026-05-12
-modified: 2026-05-25
+modified: 2026-05-30
 description: 下関戦争
 ---
 ## 概要

@@ -3,9 +3,10 @@ title: 池田屋事件
 aliases:
   - 池田屋事件
 draft: "false"
+sort: いけだやじけん
 tags:
 created: 2026-05-12
-modified: 2026-05-25
+modified: 2026-05-30
 description:
 ---
 ## 概要
