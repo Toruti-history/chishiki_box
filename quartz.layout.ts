@@ -44,7 +44,17 @@ export const defaultContentPageLayout: PageLayout = {
 
     Component.Explorer({
       sortFn: (a, b) => {
-        throw new Error(JSON.stringify(a, null, 2))
+        if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
+          const keyA = a.data?.sort ?? a.displayName
+          const keyB = b.data?.sort ?? b.displayName
+
+          return keyA.localeCompare(keyB, "ja", {
+            numeric: true,
+            sensitivity: "base",
+          })
+        }
+
+        return a.isFolder ? -1 : 1
       },
     })
   ],
