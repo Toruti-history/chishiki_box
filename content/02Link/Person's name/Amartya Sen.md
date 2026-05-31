@@ -7,16 +7,24 @@ sort: あまるてぃあせん
 description: アマルティア・セン
 tags:
 created: 2026-05-12
-modified: 2026-05-30
+modified: 2026-05-31
 ---
 ## 概要
 
+[[India|インド]]の経済学者
+
+1998年、アジアで初めてノーベル経済学賞を受賞した
 
 ## 「01Page」からの抜粋
 
+### エルニーニョ飢饉
+
+- <mark style="background: #ABF7F7A6;">アマルティア・セン</mark>などは、自然災害で飢饉にまで至るのは、全体に食べ物が行き渡らない状態を生み出した経済・社会に原因があると提唱した
 
 
 #### <mark style="background: #EAAFE4A6;">参考文献</mark>
+
+山川出版社『現代社会用語集　改訂版』「アマルティア・セン」
 
 
 <div style="display:flex; gap:10px; align-items:center;">

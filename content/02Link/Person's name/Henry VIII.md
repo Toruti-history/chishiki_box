@@ -1,7 +1,7 @@
 ---
-title: ヘンリ８世
+title: ヘンリ8世
 aliases:
-  - ヘンリ８世
+  - ヘンリ8世
 draft: "false"
 tags:
 created: 2026-05-15

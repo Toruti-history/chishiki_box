@@ -6,9 +6,26 @@ draft: "false"
 sort: でぃずれーり
 description: ディズレーリ
 tags:
-created: 2026-05-16
-modified: 2026-05-30
+created: 2026-05-12
+modified: 2026-05-31
 ---
+## 概要
+
+[[UK|イギリス]]保守党の政治家
+
+1874～1880年の第二次内閣時、スエズ運河株式会社の買収やインド帝国の樹立などを行った
+
+## 「01Page」からの抜粋
+
+### 「帝国主義」の定義
+
+- 初期は[[Napoleon III|ナポレオン3世]]の政策を批判する意味合いで使われた
+- その後、<mark style="background: #ABF7F7A6;">ディズレーリ</mark>やその後継者を指す言葉となった
+
+#### <mark style="background: #EAAFE4A6;">参考文献</mark>
+
+- [[book-013|『世界史用語集』]]P211
+
 <div style="display:flex; gap:10px; align-items:center;">
 
   <button

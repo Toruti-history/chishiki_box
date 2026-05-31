@@ -6,7 +6,7 @@ draft: "false"
 sort: わいぐん
 tags:
 created: 2026-05-12
-modified: 2026-05-30
+modified: 2026-05-31
 description:
 ---
 ## 概要
@@ -24,7 +24,7 @@ description:
 
 ### なぜ李鴻章の洋務は進まなかったのか？
 
-- 当時盛んだった攘夷論「[[seigi|清議]]」を支持する社会を大変革したり、淮軍を生み出した母胎を否定したりするほどの力を、李鴻章は有していなかった
+- 当時盛んだった攘夷論「[[seigi|清議]]」を支持する社会を大変革したり、<mark style="background: #ABF7F7A6;">淮軍</mark>を生み出した母胎を否定したりするほどの力を、李鴻章は有していなかった
 
 #### <mark style="background: #EAAFE4A6;">参考文献</mark>
 

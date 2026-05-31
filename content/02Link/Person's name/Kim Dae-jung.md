@@ -1,14 +1,23 @@
 ---
-title: Markdown
+title: 金大中
 aliases:
-  - Markdown
+  - 金大中
 draft: "false"
-description: Markdown
-tags:
-created: 2026-05-17
-modified: 2026-05-30
-sort: Markdown
+description: 金大中
+sort: きむでじゅん
+created: 2026-05-31
+modified: 2026-05-31
 ---
+## 概要
+
+
+## 「01Page」からの抜粋
+
+
+
+#### <mark style="background: #EAAFE4A6;">参考文献</mark>
+
+
 <div style="display:flex; gap:10px; align-items:center;">
 
   <button
