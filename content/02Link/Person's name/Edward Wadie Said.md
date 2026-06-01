@@ -6,9 +6,28 @@ draft: "false"
 sort: さいーど
 description: サイード
 tags:
-created: 2026-05-16
-modified: 2026-05-30
+created: 2026-05-12
+modified: 2026-06-01
 ---
+## 概要
+
+パレスチナ系アメリカ人の文学研究者
+
+1978年の著書『オリエンタリズム』で、ヨーロッパの東方に対する見方や偏見を指摘した
+
+彼による批判は、[[postcolonialism|ポストコロニアル]]研究の起点となった
+
+## 「01Page」からの抜粋
+
+### 帝国側の人種思想
+
+- 帝国論の一つの潮流をつくった
+- 「オリエンタリズム」の命名者
+
+#### <mark style="background: #EAAFE4A6;">参考文献</mark>
+
+- [[book-013|『世界史用語集』]]P360
+
 <div style="display:flex; gap:10px; align-items:center;">
 
   <button

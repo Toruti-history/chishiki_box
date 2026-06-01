@@ -4,11 +4,35 @@ aliases:
   - マルコス
 draft: "false"
 tags:
-created: 2026-05-15
-modified: 2026-05-30
+created: 2026-05-12
+modified: 2026-06-01
 description: マルコス
 sort: まるこす
 ---
+## 概要
+
+[[Philippines|フィリピン]]の大統領（在任1965～1986年）
+
+親米路線をとった
+
+## 「01Page」からの抜粋
+
+### エドゥサ革命とは？
+
+- 1983年、フィリピンのマルコス政権下で反対派のベニグノ・アキノが暗殺される
+
+→マルコス独裁への反発が高まる
+
+- 1986年、マルコス夫妻は[[America|アメリカ]]のヘリコプターで亡命した
+
+### マルコスの息子はなぜ支持を集めているのか？
+
+- 2022年6月、フィリピン大統領選挙で[[Ferdinand Romualdez Bongbong　Marcos, Jr.|ボンボン・マルコス]]（マルコスの長男）が当選
+
+#### <mark style="background: #EAAFE4A6;">参考文献</mark>
+
+- [[book-013|『世界史用語集』]]P337
+
 <div style="display:flex; gap:10px; align-items:center;">
 
   <button

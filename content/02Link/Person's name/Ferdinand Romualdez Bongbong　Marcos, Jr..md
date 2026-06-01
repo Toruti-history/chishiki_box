@@ -4,11 +4,37 @@ aliases:
   - ボンボン・マルコス
 draft: "false"
 tags:
-created: 2026-05-15
-modified: 2026-05-30
+created: 2026-05-12
+modified: 2026-06-01
 description: ボンボン・マルコス
 sort: ぼんぼんまるこす
 ---
+## 概要
+
+[[Philippines|フィリピン]]の大統領（2022年～）
+
+[[Ferdinand Edralin Marcos|マルコス]]の息子
+
+## 「01Page」からの抜粋
+
+### マルコスの息子はなぜ支持を集めているのか？
+
+①ソーシャルメディア
+- SNSの活用が誰よりもされていた
+- マルコス支持者もSNSで活動
+- かつてのマルコス独裁期を賛美し、「ゴールデン・エイジ」とした
+- 対抗候補のレニ・ロブレドへの攻撃
+
+②マルコス一族とドゥテルテ一族の支持
+- 富裕層・中間層・貧困層いずれもマルコスを支持している
+- マルコス独裁を知らない世代がＳＮＳで影響されたという説もある？
+- 副大統領に前大統領の娘を置き、どちらからの支持も吸収した
+
+#### <mark style="background: #EAAFE4A6;">参考文献</mark>
+
+- アジア経済研究所「独裁者一族の復権 ――フィリピン・マルコス政権の成立をどう見るか」（[外部リンク](https://www.ide.go.jp/Japanese/IDEsquare/Eyes/2022/ISQ202220_026.html)）
+
+
 <div style="display:flex; gap:10px; align-items:center;">
 
   <button
