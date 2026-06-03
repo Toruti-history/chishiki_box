@@ -4,11 +4,37 @@ aliases:
   - 安藤信正
 draft: "false"
 tags:
-created: 2026-05-11
-modified: 2026-05-30
+created: 2026-05-12
+modified: 2026-06-03
 description: 安藤信正
 sort: あんどうのぶまさ
 ---
+## 概要
+
+<ruby>磐城平<rt>いわきたいら</rt></ruby>（現在の福島県）藩主
+
+[[Naosuke Ii|井伊直弼]]の死後、老中首座となった
+
+坂下門外の変で襲われ、失脚
+
+## 「01Page」からの抜粋
+
+### 和宮の降嫁
+
+- 老中首座の<mark style="background: #ABF7F7A6;">安藤信正</mark>と老中[[Hirochika Kuze|久世広周]]により画策されたのが、[[Kazunomiya|和宮]]降嫁
+- これに、[[Tomomi Iwakura|岩倉具視]]が建言
+- 最終的に、[[Emperor Komei|孝明天皇]]は承認する
+
+### 「航海遠略策」
+
+- [[Choshu Domain|長州藩]]が1861年に提出し、安藤信正や久世広周は受け入れた
+- 翌年、朝廷を批判するものとして破綻した
+
+#### <mark style="background: #EAAFE4A6;">参考文献</mark>
+
+- [[book-003|『日本史用語集　A・B共用』]]P219
+
+
 <div style="display:flex; gap:10px; align-items:center;">
 
   <button

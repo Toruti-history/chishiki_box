@@ -4,11 +4,29 @@ aliases:
   - オールコック
 draft: "false"
 tags:
-created: 2026-05-14
-modified: 2026-05-30
+created: 2026-05-12
+modified: 2026-06-03
 description: オールコック
 sort: おーるこっく
 ---
+## 概要
+
+1858年に駐日[[UK|イギリス]]総領事となり、ついで公使となった
+
+[[Shimonoseki campaign|下関戦争]]を指導した
+
+著書『大君の都』
+
+## 「01Page」からの抜粋
+
+- イギリスの<mark style="background: #ABF7F7A6;">オールコック</mark>が指導
+- イギリス・[[France|フランス]]・[[Netherlands|オランダ]]・[[America|アメリカ]]の四国連合艦隊が[[Shimonoseki|下関]]を砲撃
+- 長州藩は[[Kiheitai|奇兵隊]]を中心に戦ったが、制圧される
+
+#### <mark style="background: #EAAFE4A6;">参考文献</mark>
+
+- [[book-003|『日本史用語集　A・B共用』]]P220
+
 <div style="display:flex; gap:10px; align-items:center;">
 
   <button

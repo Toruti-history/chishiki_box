@@ -5,11 +5,36 @@ aliases:
 draft: "false"
 tags:
 created: 2026-05-12
-modified: 2026-05-30
+modified: 2026-06-03
 description: 伊達宗城
 sort: だてむねなり
 ---
-読み：だて　むねなり
+## 概要
+
+伊予国宇和島藩主
+
+ペリー来航後、外交に関して積極的に意見を申し立てた
+
+王政復古後、議定などの役職を務めた
+
+1871年の[[Sino-Japanese Friendship and Trade Treaty|日清修好条規]]締結には全権として携わった
+
+## 「01Page」からの抜粋
+
+### 一橋派VS南紀派
+
+- <mark style="background: #ABF7F7A6;">伊達宗城</mark>は[[Hitotsubashi-ha|一橋派]]の一人
+- 同派閥には[[Nariakira Shimaｚu|島津斉彬]]や[[Masahiro Abe|阿部正弘]]、[[Toyoshige Yamauchi|山内豊信]]、[[Toshiakira Kawaji|川路聖謨]]、[[Tadanori Mizuno|水野忠徳]]、[[Tadanari Iwase|岩瀬忠震]]らがいた
+
+### 参与会議
+
+- 1864年に行われた参与会議のメンバーの一人に<mark style="background: #ABF7F7A6;">伊達宗城</mark>がいた
+- [[Hisamitsu Shimazu|島津久光]]らとともに、開国を支持した
+
+#### <mark style="background: #EAAFE4A6;">参考文献</mark>
+
+- [[book-003|『日本史用語集　A・B共用』]]P215
+
 
 <div style="display:flex; gap:10px; align-items:center;">
 

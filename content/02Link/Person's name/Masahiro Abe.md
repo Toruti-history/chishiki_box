@@ -4,11 +4,33 @@ aliases:
   - 阿部正弘
 draft: "false"
 tags:
-created: 2026-05-11
-modified: 2026-05-30
+created: 2026-05-12
+modified: 2026-06-03
 description: 阿部正弘
 sort: あべまさひろ
 ---
+## 概要
+
+備後国福山藩主
+
+1845年に老中首座となった
+
+[[M.C.Perry|ペリー]]来航以来、外交方針を支持する立場となった
+
+[[Japan–US Treaty of Peace and Amity|日米和親条約]]以降は公武協調をはかり、安政の改革を実施した
+
+## 「01Page」からの抜粋
+
+### 一橋派VS南紀派
+
+<mark style="background: #ABF7F7A6;">阿部正弘</mark>は[[Yoshinobu Tokugawa|一橋慶喜]]を擁立したい、改革派である一橋派であった
+
+同派閥には[[Nariakira Shimaｚu|島津斉彬]]や[[Munenari Date|伊達宗城]]、[[Toyoshige Yamauchi|山内豊信]]、[[Toshiakira Kawaji|川路聖謨]]、[[Tadanori Mizuno|水野忠徳]]、[[Tadanari Iwase|岩瀬忠震]]らがいた
+
+#### <mark style="background: #EAAFE4A6;">参考文献</mark>
+
+- [[book-003|『日本史用語集　A・B共用』]]P215
+
 <div style="display:flex; gap:10px; align-items:center;">
 
   <button
