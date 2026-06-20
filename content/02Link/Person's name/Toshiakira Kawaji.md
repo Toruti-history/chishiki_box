@@ -31,7 +31,7 @@ sort: かわじとしあきら
 
 ### 条約勅許問題
 
-- [[Masayoshi Hotta|堀田正睦]]が川路聖謨と[[Tadanari Iwase|岩瀬忠震]]を連れて上京
+- [[Masayoshi Hotta|堀田正睦]]が<mark style="background: #ABF7F7A6;">川路聖謨</mark>と[[Tadanari Iwase|岩瀬忠震]]を連れて上京
 - [[Emperor Komei|孝明天皇]]は[[Sakoku|鎖国]]継続をとなえた
 - 堀田は失墜し、左遷される
 

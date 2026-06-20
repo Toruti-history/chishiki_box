@@ -5,10 +5,21 @@ aliases:
 draft: "false"
 description: 金泳三
 tags:
-created: 2026-05-16
-modified: 2026-05-30
+created: 2026-05-12
+modified: 2026-06-06
 sort: きむよんさむ
 ---
+## 概要
+
+
+
+## 「01Page」からの抜粋
+
+
+
+#### <mark style="background: #EAAFE4A6;">参考文献</mark>
+
+
 <div style="display:flex; gap:10px; align-items:center;">
 
   <button

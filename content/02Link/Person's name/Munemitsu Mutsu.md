@@ -4,11 +4,35 @@ aliases:
   - 陸奥宗光
 draft: "false"
 tags:
-created: 2026-05-11
-modified: 2026-05-30
+created: 2026-05-12
+modified: 2026-06-06
 description: 陸奥宗光
 sort: むつむねみつ
 ---
+## 概要
+
+第2次伊藤博文内閣の外相
+
+[[Sino-Japanese War|日清戦争]]開戦直前に[[UK|イギリス]]と日英通商条約を結び、条約改正に成功した
+
+日清戦争後、[[Treaty of Shimonoseki|下関条約]]や[[Triple-Intervention|三国干渉]]などの外交処理にあたった
+
+## 「01Page」からの抜粋
+
+### 明治政府による朝鮮への派兵
+
+- <mark style="background: #ABF7F7A6;">陸奥宗光</mark>は、清と同時に撤兵すれば日本は不利になると判断した
+- [[Japan–Korea Treaty of 1876|日朝修好条規]]第1条を持ち出し、[[Qing|清]]が[[Korea|朝鮮]]の「自主」を侵害しているとして、清に戦争を挑んだ
+
+### 日清戦争における清の敗因
+
+- 日清戦争で[[Li-Hongzhang|李鴻章]]が画策したイギリスや[[Russia|ロシア]]の干渉を<mark style="background: #ABF7F7A6;">陸奥宗光</mark>が跳ね除けた
+
+#### <mark style="background: #EAAFE4A6;">参考文献</mark>
+
+- [[book-003|『日本史用語集　A・B共用』]]P253
+
+
 <div style="display:flex; gap:10px; align-items:center;">
 
   <button

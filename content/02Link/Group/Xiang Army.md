@@ -1,28 +1,22 @@
 ---
-title: 00117.日清戦争における清の敗因
+title: 湘軍
 aliases:
-  - 00117.日清戦争における清の敗因
+  - 湘軍
 draft: "false"
-tags:
-created: 2026-05-11
-modified: 2026-06-06
+description: 湘軍
+sort: しょうぐん
+created: 2026-06-20
+modified: 2026-06-20
 ---
-## イギリス・ロシアの干渉がなくなった
+## 概要
 
-- [[Sino-Japanese War|日清戦争]]で[[Li-Hongzhang|李鴻章]]が画策した[[UK|イギリス]]や[[Russia|ロシア]]の干渉を[[Munemitsu Mutsu|陸奥宗光]]が跳ね除けた
-- イギリスはロシアに対する防壁として、清を見限り日本を重視するようになる
-- 李鴻章と清をはばかっていたロシアは、本格的に南下政策を始めた
 
-## 清朝内部の構造変化
+## 「01Page」からの抜粋
 
-- 幼帝に代わって実権を握っていた[[Empress Dowager Cixi|西太后]]が李鴻章に依存し、バランスを保ってきた
-- 1894年になると西太后は還暦に、[[Guangxu Emperor|光緒帝]]は成人となり、皇帝独裁が復活し始めていた
-- 皇帝側は戦争回避を批判し、北洋に大金を投じた
 
 
 #### <mark style="background: #EAAFE4A6;">参考文献</mark>
 
-- [[book-014|岡本隆司『李鴻章ーー東アジアの近代』]]P.177～179
 
 <div style="display:flex; gap:10px; align-items:center;">
 
