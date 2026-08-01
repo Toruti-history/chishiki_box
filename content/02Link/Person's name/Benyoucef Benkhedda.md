@@ -1,11 +1,12 @@
 ---
-title:
+title: ベンベッラ
 aliases:
+  - ベンベッラ
 draft: "false"
-description:
-sort:
-created: 
-modified: 2026-05-30
+description: ベンベッラ
+sort: べんべつら
+created: 2026-08-01
+modified: 2026-08-01
 ---
 ## 概要
 

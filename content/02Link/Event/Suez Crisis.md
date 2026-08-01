@@ -1,11 +1,12 @@
 ---
-title:
+title: スエズ戦争
 aliases:
+  - スエズ戦争
 draft: "false"
-description:
-sort:
-created: 
-modified: 2026-05-30
+description: スエズ戦争
+sort: すえずせんそう
+created: 2026-08-01
+modified: 2026-08-01
 ---
 ## 概要
 

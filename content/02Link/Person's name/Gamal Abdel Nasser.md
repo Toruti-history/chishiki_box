@@ -1,11 +1,12 @@
 ---
-title:
+title: ナセル
 aliases:
+  - ナセル
 draft: "false"
-description:
-sort:
-created: 
-modified: 2026-05-30
+description: ナセル
+sort: なせる
+created: 2026-08-01
+modified: 2026-08-01
 ---
 ## 概要
 

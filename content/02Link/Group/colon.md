@@ -1,13 +1,16 @@
 ---
-title:
+title: コロン
 aliases:
+  - コロン
 draft: "false"
-description:
-sort:
-created: 
-modified: 2026-05-30
+description: コロン
+sort: ころん
+created: 2026-08-01
+modified: 2026-08-01
 ---
 ## 概要
+
+アフリカなどにおける、ヨーロッパ系入植者のこと。
 
 
 ## 「01Page」からの抜粋

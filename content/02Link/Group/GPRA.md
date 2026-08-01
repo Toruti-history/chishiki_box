@@ -1,15 +1,17 @@
 ---
-title:
+title: GPRA
 aliases:
+  - GPRA
 draft: "false"
-description:
-sort:
-created: 
-modified: 2026-05-30
+description: GPRA
+created: 2026-08-01
+modified: 2026-08-01
+sort: GPRA
 ---
 ## 概要
 
-
+- フランス語名はGouvernement provisoire de la République algérienne
+- 
 ## 「01Page」からの抜粋
 
 

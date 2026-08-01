@@ -1,11 +1,12 @@
 ---
-title:
+title: ド=ゴール
 aliases:
+  - ド=ゴール
 draft: "false"
-description:
-sort:
-created: 
-modified: 2026-05-30
+description: ド=ゴール
+sort: どごおる
+created: 2026-08-01
+modified: 2026-08-01
 ---
 ## 概要
 
