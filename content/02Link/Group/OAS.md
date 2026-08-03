@@ -1,21 +1,21 @@
 ---
-title: 20260801 久々の更新
+title: OAS
 aliases:
-  - 20260801 久々の更新
+  - OAS
 draft: "false"
-description: "20260801"
-created: 2026-08-01
+description: OAS
+sort: OAS
+created: 2026-08-03
 modified: 2026-08-03
 ---
-## お久しぶりです
+## 概要
 
-気が付いたら夏になっていました。
 
-知識ボックス本体である手帳のほうはぼちぼち進めていたのですが、このサイトにつながっているObsidianの更新がなかなかできずにいました。
+## 「01Page」からの抜粋
 
-校正の資格勉強（詳しくは[[20260801|こちら]]）で忙しかったからか、仕事が忙しくて寝落ちの日々だったからか……。
 
-まあ何はともあれ、またこちらの更新も再開できたらと思います。
+
+#### <mark style="background: #EAAFE4A6;">参考文献</mark>
 
 
 <div style="display:flex; gap:10px; align-items:center;">
@@ -69,5 +69,3 @@ modified: 2026-08-03
 </button>
 
 </div>
-
-
