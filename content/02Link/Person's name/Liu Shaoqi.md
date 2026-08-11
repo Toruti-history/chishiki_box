@@ -1,0 +1,82 @@
+---
+title: 劉少奇
+aliases:
+  - 劉少奇
+draft: "false"
+description: 劉少奇
+sort: りゅうしょうき
+created: 2026-08-11
+modified: 2026-08-11
+---
+## 概要
+
+
+## 「01Page」からの抜粋
+
+## 国家主席就任
+
+- 劉少奇は1959年4月、国家主席に就任した
+
+## 経済政策
+
+- 市場経済を取り入れる（経済調整政策）
+	- 大躍進後の経済回復に努める
+
+## 失脚
+
+- [[Mao Zedong|毛沢東]]から「走資派」として批判される
+
+#### <mark style="background: #EAAFE4A6;">参考文献</mark>
+
+
+<div style="display:flex; gap:10px; align-items:center;">
+
+  <button
+    onclick="window.open('https://twitter.com/intent/tweet?url=' + encodeURIComponent(window.location.href))"
+    style="
+      width:42px;
+      height:42px;
+      border-radius:9999px;
+      border:none;
+      background:#000;
+      color:white;
+      font-size:18px;
+      cursor:pointer;
+    ">
+    𝕏
+  </button>
+
+  <button
+  onclick="window.location.href='https://line.me/R/msg/text/?' + encodeURIComponent(window.location.href)"
+  style="
+    width:42px;
+    height:42px;
+    border-radius:9999px;
+    border:none;
+    background:#06c755;
+    color:white;
+    font-size:12px;
+    cursor:pointer;
+  ">
+  LINE
+</button>
+
+  <button
+  onclick="
+    navigator.clipboard.writeText(window.location.href);
+    alert('URLをコピーしました');
+  "
+  style="
+    width:42px;
+    height:42px;
+    border-radius:9999px;
+    border:none;
+    background:#1d9bf0;
+    color:white;
+    font-size:18px;
+    cursor:pointer;
+  ">
+  🔗
+</button>
+
+</div>
