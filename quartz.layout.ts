@@ -45,8 +45,23 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer({
       sortFn: (a, b) => {
         if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
-          const keyA = a.data?.sort ?? a.displayName
-          const keyB = b.data?.sort ?? b.displayName
+          const getSortKey = (node) => {
+            if (node.data?.sort)
+          }
+
+          //ファイル名の先頭にある番号を取得
+
+          const filePath = node.data?,filePath ?? ""
+          const fileName = filePath.split("/").pop() ?? ""
+          const match = fileName.match(/^(\d+)/)
+
+          //番号が無ければ表示名を使う
+
+          return match ? match[1] : node.displayName
+        }
+
+          const keyA = getSortKey(a)
+          const keyB = getSortKey(b)
 
           return keyA.localeCompare(keyB, "ja", {
             numeric: true,
