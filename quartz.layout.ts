@@ -45,32 +45,26 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer({
       sortFn: (a, b) => {
         if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
-          const getSortKey = (node) => {
-            if (node.data?.sort) {
-              return node.data.sort
-            }
+          const filePathA = a.data?.filePath ?? ""
+          const filePathB = b.data?.filePath ?? ""
 
-            // ファイル名の先頭にある番号を取得
-            const filePath = node.data?.filePath ?? ""
-            const fileName = filePath.split("/").pop() ?? ""
-            const match = fileName.match(/^(\d+)/)
+          const fileNameA = filePathA.split("/").pop() ?? ""
+          const fileNameB = filePathB.split("/").pop() ?? ""
 
-            // 番号があればそれを使用
-            // なければ表示名を使用
-            return match ? match[1] : node.displayName
-          }
+          const matchA = fileNameA.match(/^(\d+)/)
+          const matchB = fileNameB.match(/^(\d+)/)
 
-          const keyA = getSortKey(a)
-          const keyB = getSortKey(b)
+          const keyA = matchA ? matchA[1] : (a.data?.sort ?? a.displayName)
+          const keyB = matchB ? matchB[1] : (b.data?.sort ?? b.displayName)
 
           return keyA.localeCompare(keyB, "ja", {
             numeric: true,
-            sensitivity: "base",
+           sensitivity: "base",
           })
-        }
+       }
 
         return a.isFolder ? -1 : 1
-      },
+     },
     }),
   ],
 
