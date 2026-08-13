@@ -70,9 +70,7 @@ export const defaultContentPageLayout: PageLayout = {
         }
 
         return a.isFolder ? -1 : 1
-      },
-    })
-  ],
+      }),
 
   right: [
   Random01Page(),
