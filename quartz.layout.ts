@@ -46,19 +46,19 @@ export const defaultContentPageLayout: PageLayout = {
       sortFn: (a, b) => {
         if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
           const getSortKey = (node) => {
-            if (node.data?.sort)
+            if (node.data?.sort) {
+              return node.data.sort
+            }
+
+            // ファイル名の先頭にある番号を取得
+            const filePath = node.data?.filePath ?? ""
+            const fileName = filePath.split("/").pop() ?? ""
+            const match = fileName.match(/^(\d+)/)
+
+            // 番号があればそれを使用
+            // なければ表示名を使用
+            return match ? match[1] : node.displayName
           }
-
-          //ファイル名の先頭にある番号を取得
-
-          const filePath = node.data?,filePath ?? ""
-          const fileName = filePath.split("/").pop() ?? ""
-          const match = fileName.match(/^(\d+)/)
-
-          //番号が無ければ表示名を使う
-
-          return match ? match[1] : node.displayName
-        }
 
           const keyA = getSortKey(a)
           const keyB = getSortKey(b)
@@ -70,24 +70,25 @@ export const defaultContentPageLayout: PageLayout = {
         }
 
         return a.isFolder ? -1 : 1
-      }),
+      },
+    }),
+  ],
 
   right: [
-  Random01Page(),
-  Component.Graph({
-    localGraph: {
-      depth: 2
-    }
-  }),
-  Component.Backlinks(),
-  Component.DesktopOnly(Component.TableOfContents()),
-], 
+    Random01Page(),
+    Component.Graph({
+      localGraph: {
+        depth: 2,
+      },
+    }),
+    Component.Backlinks(),
+    Component.DesktopOnly(Component.TableOfContents()),
+  ],
 }
 
 // components for pages that display lists of pages
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [
-  ],
+  beforeBody: [],
 
   left: [],
 
